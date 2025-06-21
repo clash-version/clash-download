@@ -77,7 +77,7 @@
 ### Clash Verge
 
 * **下载地址**: [https://clash-version.com/tutorials/clash-verge/](https://clash-version.com/tutorials/clash-verge/)
-* **使用教程**: [https://clash-version.com/download/clash-verge/]((https://clash-version.com/download/clash-verge/)
+* **使用教程**: [https://clash-version.com/download/clash-verge/](https://clash-version.com/download/clash-verge/)
 
 ### Clash for Windows
 
