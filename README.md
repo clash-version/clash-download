@@ -93,22 +93,22 @@
 
 ### Clash Verge
 
-* **下载地址**: [https://clash-version.com/tutorials/clash-verge/](https://clash-version.com/tutorials/clash-verge/)
-* **使用教程**: [https://clash-version.com/download/clash-verge/](https://clash-version.com/download/clash-verge/)
+* **使用教程**: [https://clash-version.com/tutorials/clash-verge/](https://clash-version.com/tutorials/clash-verge/)
+* **下载地址**: [https://clash-version.com/download/clash-verge/](https://clash-version.com/download/clash-verge/)
 
 ### Clash for Windows
 
-* **下载地址**: [https://clash-version.com/tutorials/clash-for-windows/](https://clash-version.com/tutorials/clash-for-windows/)
-* **使用教程**: [https://clash-version.com/download/clash-for-windows/](https://clash-version.com/download/clash-for-windows/)
+* **使用教程**: [https://clash-version.com/tutorials/clash-for-windows/](https://clash-version.com/tutorials/clash-for-windows/)
+* **下载地址**: [https://clash-version.com/download/clash-for-windows/](https://clash-version.com/download/clash-for-windows/)
 
 ### ClashX
 
-* **下载地址**: [https://clash-version.com/tutorials/clashx](https://clash-version.com/tutorials/clashx)
-* **使用教程**: [https://clash-version.com/download/clashx](https://clash-version.com/download/clashx)
+* **使用教程**: [https://clash-version.com/tutorials/clashx](https://clash-version.com/tutorials/clashx)
+* **下载地址**: [https://clash-version.com/download/clashx](https://clash-version.com/download/clashx)
 
 ### Clash for Android
 
-* **下载地址**: [https://clash-version.com/tutorials/clash-for-android/](https://clash-version.com/tutorials/clash-for-android/)
-* **使用教程**: [https://clash-version.com/download/clash-for-android/](https://clash-version.com/download/clash-for-android/)
+* **使用教程**: [https://clash-version.com/tutorials/clash-for-android/](https://clash-version.com/tutorials/clash-for-android/)
+* **下载地址**: [https://clash-version.com/download/clash-for-android/](https://clash-version.com/download/clash-for-android/)
 
 ---
