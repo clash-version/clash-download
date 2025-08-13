@@ -15,7 +15,7 @@
 | [ClashMi](#-clashmi) | 🟢 |  ✅ | ✅ | ✅ | ✅ | [官方](https://github.com/KaringX/clashmi/releases) | - |[免费节点](https://qiaomimi.de/#/register?code=rwbjnDv3)|
 | [GUI for Clash](#-gui-for-clash) | 🟢 |  ✅ | ✅ | ❌ | ❌ | [官方](https://github.com/GUI-for-Cores/GUI.for.Clash/releases) | - |[免费节点](https://qiaomimi.de/#/register?code=rwbjnDv3)|
 | [V2rayN](#-v2rayN) | 🟢 |  ✅ | ❌ | ❌ | ❌ | [官方](https://github.com/2dust/v2rayN/releases) | - |[免费节点](https://qiaomimi.de/#/register?code=rwbjnDv3)|
-| [Hiddify Next](#-hiddify-next) | 🟢 | ✅ | ✅ | ✅ | ❌ | [官方](https://github.com/hiddify/hiddify-app/releases) | - |[免费节点](https://qiaomimi.de/#/register?code=rwbjnDv3)|
+| [Hiddify Next](#-hiddify-next) | 🟢 | ✅ | ✅ | ✅ | ✅ | [官方](https://github.com/hiddify/hiddify-app/releases) | - |[免费节点](https://qiaomimi.de/#/register?code=rwbjnDv3)|
 | [Clash Meta for Android](#-clash-meta-for-android) | 🟢 | ❌ | ❌ | ✅ | ❌ | [官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [前往](https://clash.guide/clash-meta-for-adnroid) |[免费节点](https://qiaomimi.de/#/register?code=rwbjnDv3)|
 | [Clash Verge](#-clash-verge-停更) | 🔴 |  ✅ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version-download/clash-verge) | [前往](https://clash.guide/clash-verge) |[免费节点](https://qiaomimi.de/#/register?code=rwbjnDv3)|
 | [Clash for Windows](#-clash-for-windows) | 🔴 |✅ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version-download/clash-for-windows) | [前往](https://clash.guide/clash-for-windows) |[免费节点](https://qiaomimi.de/#/register?code=rwbjnDv3)|
