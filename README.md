@@ -17,18 +17,19 @@
 | [V2rayN](#-v2rayN) | 🟢 |  ✅ | ❌ | ❌ | ❌ | ❌ |[官方](https://github.com/2dust/v2rayN/releases) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
 | [Hiddify Next](#-hiddify-next) | 🟢 | ✅ | ✅ | ✅ | ✅ | ❌ |[官方](https://github.com/hiddify/hiddify-app/releases) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
 | [Clash Meta for Android](#-clash-meta-for-android) | 🟢 | ❌ | ❌ | ✅ | ❌ | ❌ |[官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [前往](https://clash.guide/clash-meta-for-adnroid) |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
-| [Clash Verge](#-clash-verge-停更) | 🔴 |  ✅ | ✅ | ❌ | ❌ | ❌ |[备份](https://github.com/clash-version-download/clash-verge) | [前往](https://clash.guide/clash-verge) |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
-| [Clash for Windows](#-clash-for-windows) | 🔴 |✅ | ✅ | ❌ | ❌ | ❌ |[备份](https://github.com/clash-version-download/clash-for-windows) | [前往](https://clash.guide/clash-for-windows) |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
-| [ClashX](#-clashx-停更) | 🔴 |  ❌ | ✅ | ❌ | ❌ |❌ | [备份](https://github.com/clash-version-download/clashx) | [前往](https://clash.guide/clashx) |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
-| [Clash for Android](#-clash-for-android-停更) | 🔴 | ❌ | ❌ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version-download/clash-for-android) | [前往](https://clash.guide/clash-for-android) |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
+| [Clash Verge](#-clash-verge-停更) | 🔴 |  ✅ | ✅ | ❌ | ❌ | ❌ |[备份](https://github.com/clash-version/clash-verge) | [前往](https://clash.guide/clash-verge) |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
+| [Clash for Windows](#-clash-for-windows) | 🔴 |✅ | ✅ | ❌ | ❌ | ❌ |[备份](https://github.com/clash-version/clash-for-windows) | [前往](https://clash.guide/clash-for-windows) |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
+| [ClashX](#-clashx-停更) | 🔴 |  ❌ | ✅ | ❌ | ❌ |❌ | [备份](https://github.com/clash-version/clashx) | [前往](https://clash.guide/clashx) |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
+| [Clash for Android](#-clash-for-android-停更) | 🔴 | ❌ | ❌ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version/clash-for-android) | [前往](https://clash.guide/clash-for-android) |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
 | [ClashBox](#-ClashBox) | 🟢 | ❌ | ❌ | ❌ | ❌ | ✅ |[官方](https://github.com/xiaobaigroup/ClashBox/releases) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
 | [Karing](#-karing) | 🟢  |  ✅ |  ❌ | ✅ | ❌ | ❌ |[官方](https://github.com/KaringX/karing/releases) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
 | [Nyanpasu](#-clash-nyanpasu) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |[官方](https://github.com/libnyanpasu/clash-nyanpasu/releases) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
 | [Pandora-Box](#-clash-Pandora-Box) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |[官方](https://github.com/snakem982/Pandora-Box/releases) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
 | [Mihomo-Party](#-Mihomo-Party) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |[官方](https://github.com/mihomo-party-org/mihomo-party/releases) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
 | [Nekoray](#-Nekoray) | 🔴  |  ✅  | ❌ |  ❌ | ❌ | ❌ |[官方](https://github.com/MatsuriDayo/nekoray/releases) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
-| [Qv2ray](#-Qv2ray) | 🔴  |  ✅  | ✅ |  ❌ | ❌ | ❌ |[官方](https://github.com/mihomo-party-org/mihomo-party/releases) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
+| [Qv2ray](#-Qv2ray) | 🔴  |  ✅  | ✅ |  ❌ | ✅ | ❌ |[官方](https://github.com/mihomo-party-org/mihomo-party/releases) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
 | [Shadowsocks-Android](#-Qv2ray) | 🟢  |  ❌  | ❌ |  ✅ | ❌ | ❌ |[官方](https://github.com/shadowsocks/shadowsocks-android/releases) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
+| [Spectre VPN](#-SpectreVPN) | 🟢  |  ❌  | ❌ | ❌  | ✅ | ❌ |商店](https://apps.apple.com/us/app/spectre-vpn/id1508712998) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
 ---
 
 ## 🚀 活跃更新客户端
