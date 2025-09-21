@@ -29,7 +29,7 @@
 | [Nekoray](#-Nekoray) | 🔴  |  ✅  | ❌ |  ❌ | ❌ | ❌ |[官方](https://github.com/MatsuriDayo/nekoray/releases) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
 | [Qv2ray](#-Qv2ray) | 🔴  |  ✅  | ✅ |  ❌ | ✅ | ❌ |[官方](https://github.com/mihomo-party-org/mihomo-party/releases) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
 | [Shadowsocks-Android](#-Qv2ray) | 🟢  |  ❌  | ❌ |  ✅ | ❌ | ❌ |[官方](https://github.com/shadowsocks/shadowsocks-android/releases) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
-| [Spectre VPN](#-SpectreVPN) | 🟢  |  ❌  | ❌ | ❌  | ✅ | ❌ |商店](https://apps.apple.com/us/app/spectre-vpn/id1508712998) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
+| [Spectre VPN](#-SpectreVPN) | 🟢  |  ❌  | ❌ | ❌  | ✅ | ❌ |[商店](https://apps.apple.com/us/app/spectre-vpn/id1508712998) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
 ---
 
 ## 🚀 活跃更新客户端
