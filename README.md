@@ -10,27 +10,27 @@
 
 | 客户端 | 维护 |  Windows | macOS | 安卓 | iOS | 鸿蒙 | 仓库 | 教程 |高速节点 |
 |--------|----------|----------|----------|----------|----------|------|------|------|------|
-| [FlClash](https://clash.guide/flclash) | 🟢 | ✅ | ✅ | ✅ | ❌ | ❌ | [官方](https://github.com/chen08209/FlClash/releases) | [前往](https://clash.guide/flclash) |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
-| [Clash Verge Rev](https://clash.guide/clash-verge) | 🟢 | ✅ | ✅ | ❌ | ❌ | ❌ |[官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [前往](https://clash.guide/clash-verge) |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
-| [ClashMi](#-clashmi) | 🟢 |  ✅ | ✅ | ✅ | ✅ |❌ | [官方](https://github.com/KaringX/clashmi/releases) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
-| [GUI for Clash](#-gui-for-clash) | 🟢 |  ✅ | ✅ | ❌ | ❌ | ❌ |[官方](https://github.com/GUI-for-Cores/GUI.for.Clash/releases) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
-| [V2rayN](#-v2rayN) | 🟢 |  ✅ | ❌ | ❌ | ❌ | ❌ |[官方](https://github.com/2dust/v2rayN/releases) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
-| [Hiddify Next](https://clash.guide/hiddify) | 🟢 | ✅ | ✅ | ✅ | ✅ | ❌ |[官方](https://github.com/hiddify/hiddify-app/releases) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
-| [Clash Meta for Android](https://clash.guide/clash-meta) | 🟢 | ❌ | ❌ | ✅ | ❌ | ❌ |[官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [前往](https://clash.guide/clash-meta) |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
-| [Clash Verge](https://clash.guide/clash-verge) | 🔴 |  ✅ | ✅ | ❌ | ❌ | ❌ |[备份](https://github.com/clash-version/clash-verge) | [前往](https://clash.guide/clash-verge) |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
-| [Clash for Windows](https://clash.guide/clash-for-windows) | 🔴 |✅ | ✅ | ❌ | ❌ | ❌ |[备份](https://github.com/clash-version/clash-for-windows) | [前往](https://clash.guide/clash-for-windows) |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
-| [ClashX](https://clash.guide/clashx) | 🔴 |  ❌ | ✅ | ❌ | ❌ |❌ | [备份](https://github.com/clash-version/clashx) | [前往](https://clash.guide/clashx) |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
-| [Clash for Android](https://clash.guide/clash-for-android) | 🔴 | ❌ | ❌ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version/clash-for-android) | [前往](https://clash.guide/clash-for-android) |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
-| [ClashBox](https://clash.guide/clash-box) | 🟢 | ❌ | ❌ | ❌ | ❌ | ✅ |[官方](https://github.com/xiaobaigroup/ClashBox/releases) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
-| [Karing](#Karing) | 🟢  |  ✅ |  ❌ | ✅ | ❌ | ❌ |[官方](https://github.com/KaringX/karing/releases) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
-| [Nyanpasu](#Nyanpasu) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |[官方](https://github.com/libnyanpasu/clash-nyanpasu/releases) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
-| [Pandora-Box](#Pandora-Box) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |[官方](https://github.com/snakem982/Pandora-Box/releases) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
-| [Mihomo-Party](#Mihomo-Party) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |[官方](https://github.com/mihomo-party-org/mihomo-party/releases) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
-| [Nekoray](#Nekoray) | 🔴  |  ✅  | ❌ |  ❌ | ❌ | ❌ |[官方](https://github.com/MatsuriDayo/nekoray/releases) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
-| [Qv2ray](#Qv2ray) | 🔴  |  ✅  | ✅ |  ❌ | ✅ | ❌ |[官方](https://github.com/mihomo-party-org/mihomo-party/releases) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
-| [Shadowsocks-Android](#Shadowsocks-Android) | 🟢  |  ❌  | ❌ |  ✅ | ❌ | ❌ |[官方](https://github.com/shadowsocks/shadowsocks-android/releases) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
-| [Spectre VPN](#SpectreVPN) | 🟢  |  ❌  | ❌ | ❌  | ✅ | ❌ |[商店](https://apps.apple.com/us/app/spectre-vpn/id1508712998) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
-| [Clash-Party](#Clash-Party) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |[官方](https://github.com/mihomo-party-org/clash-party/releases) | - |[免费试用](https://qiaomimi.de/#/register?code=rwbjnDv3)|
+| [FlClash](https://clash.guide/flclash) | 🟢 | ✅ | ✅ | ✅ | ❌ | ❌ | [官方](https://github.com/chen08209/FlClash/releases) | [前往](https://clash.guide/flclash) |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
+| [Clash Verge Rev](https://clash.guide/clash-verge) | 🟢 | ✅ | ✅ | ❌ | ❌ | ❌ |[官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [前往](https://clash.guide/clash-verge) |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
+| [ClashMi](#-clashmi) | 🟢 |  ✅ | ✅ | ✅ | ✅ |❌ | [官方](https://github.com/KaringX/clashmi/releases) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
+| [GUI for Clash](#-gui-for-clash) | 🟢 |  ✅ | ✅ | ❌ | ❌ | ❌ |[官方](https://github.com/GUI-for-Cores/GUI.for.Clash/releases) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
+| [V2rayN](#-v2rayN) | 🟢 |  ✅ | ❌ | ❌ | ❌ | ❌ |[官方](https://github.com/2dust/v2rayN/releases) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
+| [Hiddify Next](https://clash.guide/hiddify) | 🟢 | ✅ | ✅ | ✅ | ✅ | ❌ |[官方](https://github.com/hiddify/hiddify-app/releases) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
+| [Clash Meta for Android](https://clash.guide/clash-meta) | 🟢 | ❌ | ❌ | ✅ | ❌ | ❌ |[官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [前往](https://clash.guide/clash-meta) |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
+| [Clash Verge](https://clash.guide/clash-verge) | 🔴 |  ✅ | ✅ | ❌ | ❌ | ❌ |[备份](https://github.com/clash-version/clash-verge) | [前往](https://clash.guide/clash-verge) |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
+| [Clash for Windows](https://clash.guide/clash-for-windows) | 🔴 |✅ | ✅ | ❌ | ❌ | ❌ |[备份](https://github.com/clash-version/clash-for-windows) | [前往](https://clash.guide/clash-for-windows) |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
+| [ClashX](https://clash.guide/clashx) | 🔴 |  ❌ | ✅ | ❌ | ❌ |❌ | [备份](https://github.com/clash-version/clashx) | [前往](https://clash.guide/clashx) |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
+| [Clash for Android](https://clash.guide/clash-for-android) | 🔴 | ❌ | ❌ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version/clash-for-android) | [前往](https://clash.guide/clash-for-android) |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
+| [ClashBox](https://clash.guide/clash-box) | 🟢 | ❌ | ❌ | ❌ | ❌ | ✅ |[官方](https://github.com/xiaobaigroup/ClashBox/releases) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
+| [Karing](#Karing) | 🟢  |  ✅ |  ❌ | ✅ | ❌ | ❌ |[官方](https://github.com/KaringX/karing/releases) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
+| [Nyanpasu](#Nyanpasu) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |[官方](https://github.com/libnyanpasu/clash-nyanpasu/releases) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
+| [Pandora-Box](#Pandora-Box) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |[官方](https://github.com/snakem982/Pandora-Box/releases) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
+| [Mihomo-Party](#Mihomo-Party) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |[官方](https://github.com/mihomo-party-org/mihomo-party/releases) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
+| [Nekoray](#Nekoray) | 🔴  |  ✅  | ❌ |  ❌ | ❌ | ❌ |[官方](https://github.com/MatsuriDayo/nekoray/releases) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
+| [Qv2ray](#Qv2ray) | 🔴  |  ✅  | ✅ |  ❌ | ✅ | ❌ |[官方](https://github.com/mihomo-party-org/mihomo-party/releases) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
+| [Shadowsocks-Android](#Shadowsocks-Android) | 🟢  |  ❌  | ❌ |  ✅ | ❌ | ❌ |[官方](https://github.com/shadowsocks/shadowsocks-android/releases) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
+| [Spectre VPN](#SpectreVPN) | 🟢  |  ❌  | ❌ | ❌  | ✅ | ❌ |[商店](https://apps.apple.com/us/app/spectre-vpn/id1508712998) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
+| [Clash-Party](#Clash-Party) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |[官方](https://github.com/mihomo-party-org/clash-party/releases) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
 
 ---
 
@@ -104,22 +104,18 @@
 
 ### Clash Verge
 
-* **使用教程**: [https://clash-version.com/tutorials/clash-verge/](https://clash-version.com/tutorials/clash-verge/)
-* **下载地址**: [https://clash-version.com/download/clash-verge/](https://clash-version.com/download/clash-verge/)
+* **下载与教程**: [https://clash.guide/clash-verge/](https://clash.guide/clash-verge.html)
 
 ### Clash for Windows
 
-* **使用教程**: [https://clash-version.com/tutorials/clash-for-windows/](https://clash-version.com/tutorials/clash-for-windows/)
-* **下载地址**: [https://clash-version.com/download/clash-for-windows/](https://clash-version.com/download/clash-for-windows/)
+* **下载与教程**: [https://clash.guide/clash-for-windows/](https://clash.guide/clash-for-windows.html)
 
 ### ClashX
 
-* **使用教程**: [https://clash-version.com/tutorials/clashx](https://clash-version.com/tutorials/clashx)
-* **下载地址**: [https://clash-version.com/download/clashx](https://clash-version.com/download/clashx)
+* **下载与教程**: [https://clash.guide/clashx](https://clash.guide/clashx.html)
 
 ### Clash for Android
 
-* **使用教程**: [https://clash-version.com/tutorials/clash-for-android/](https://clash-version.com/tutorials/clash-for-android/)
-* **下载地址**: [https://clash-version.com/download/clash-for-android/](https://clash-version.com/download/clash-for-android/)
+* **下载与教程**: [https://clash.guide/clash-for-android/](https://clash.guide/clash-for-android.html)
 
 ---
