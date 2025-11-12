@@ -104,18 +104,18 @@
 
 ### Clash Verge
 
-* **下载与教程**: [https://clashproxy.net/zh-CN/clash-verge/](https://clashproxy.net/zh-CN/clash-verge.html)
+* **下载与教程**: [https://clash.guide/clash-verge/](https://clashproxy.net/zh-CN/clash-verge.html)
 
 ### Clash for Windows
 
-* **下载与教程**: [https://clashproxy.net/zh-CN/clash-for-windows/](https://clashproxy.net/zh-CN/clash-for-windows.html)
+* **下载与教程**: [https://clash.guide/clash-for-windows/](https://clashproxy.net/zh-CN/clash-for-windows.html)
 
 ### ClashX
 
-* **下载与教程**: [https://clashproxy.net/zh-CN/clashx](https://clashproxy.net/zh-CN/clashx.html)
+* **下载与教程**: [https://clash.guide/clashx](https://clashproxy.net/zh-CN/clashx.html)
 
 ### Clash for Android
 
-* **下载与教程**: [https://clashproxy.net/zh-CN/clash-for-android/](https://clashproxy.net/zh-CN/clash-for-android.html)
+* **下载与教程**: [https://clash.guide/clash-for-android/](https://clashproxy.net/zh-CN/clash-for-android.html)
 
 ---
