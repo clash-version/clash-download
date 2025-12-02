@@ -31,6 +31,7 @@
 | [Shadowsocks-Android](#Shadowsocks-Android) | 🟢  |  ❌  | ❌ |  ✅ | ❌ | ❌ |[官方](https://github.com/shadowsocks/shadowsocks-android/releases) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
 | [Spectre VPN](#SpectreVPN) | 🟢  |  ❌  | ❌ | ❌  | ✅ | ❌ |[商店](https://apps.apple.com/us/app/spectre-vpn/id1508712998) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
 | [Clash-Party](#Clash-Party) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |[官方](https://github.com/mihomo-party-org/clash-party/releases) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
+| [Surge for iOS](https://apps.apple.com/us/app/surge-5/id1442620678) | 🟢  |  ❌  | ❌ |  ❌ | ✅ | ❌ |[商店](https://apps.apple.com/us/app/surge-5/id1442620678) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
 
 ---
 
