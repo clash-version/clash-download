@@ -6,34 +6,83 @@
 
 ---
 
+
 ## 📊 版本状态总览(停更版本仅备份仓库下载)
 
-| 客户端 | 维护 |  Windows | macOS | 安卓 | iOS | 鸿蒙 | 仓库 | 教程 |高速节点 |
-|--------|----------|----------|----------|----------|----------|------|------|------|------|
-| [FlClash](https://clashproxy.net/zh-CN/flclash.html) | 🟢 | ✅ | ✅ | ✅ | ❌ | ❌ | [官方](https://github.com/chen08209/FlClash/releases) | [前往](https://clashproxy.net/zh-CN/flclash.html) |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
-| [Clash Verge Rev](https://clashproxy.net/zh-CN/clash-verge.html) | 🟢 | ✅ | ✅ | ❌ | ❌ | ❌ |[官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [前往](https://clashproxy.net/zh-CN/clash-verge.html) |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
-| [ClashMi](#-clashmi) | 🟢 |  ✅ | ✅ | ✅ | ✅ |❌ | [官方](https://github.com/KaringX/clashmi/releases) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
-| [GUI for Clash](#-gui-for-clash) | 🟢 |  ✅ | ✅ | ❌ | ❌ | ❌ |[官方](https://github.com/GUI-for-Cores/GUI.for.Clash/releases) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
-| [V2rayN](#-v2rayN) | 🟢 |  ✅ | ❌ | ❌ | ❌ | ❌ |[官方](https://github.com/2dust/v2rayN/releases) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
-| [Hiddify Next](https://clashproxy.net/zh-CN/hiddify.html) | 🟢 | ✅ | ✅ | ✅ | ✅ | ❌ |[官方](https://github.com/hiddify/hiddify-app/releases) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
-| [Clash Meta for Android](https://clashproxy.net/zh-CN/clash-meta-for-android.html) | 🟢 | ❌ | ❌ | ✅ | ❌ | ❌ |[官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [前往](https://clashproxy.net/zh-CN/clash-meta-for-android.html) |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
-| [Clash Verge](https://clashproxy.net/zh-CN/clash-verge.html) | 🔴 |  ✅ | ✅ | ❌ | ❌ | ❌ |[备份](https://github.com/clash-version/clash-verge) | [前往](https://clashproxy.net/zh-CN/clash-verge) |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
-| [Clash for Windows](https://clashproxy.net/zh-CN/clash-for-windows.html) | 🔴 |✅ | ✅ | ❌ | ❌ | ❌ |[备份](https://github.com/clash-version/clash-for-windows) | [前往](https://clashproxy.net/zh-CN/clash-for-windows) |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
-| [ClashX](https://clashproxy.net/zh-CN/clashx.html) | 🔴 |  ❌ | ✅ | ❌ | ❌ |❌ | [备份](https://github.com/clash-version/clashx) | [前往](https://clashproxy.net/zh-CN/clashx) |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
-| [Clash for Android](https://clashproxy.net/zh-CN/clash-for-android.html) | 🔴 | ❌ | ❌ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version/clash-for-android) | [前往](https://clashproxy.net/zh-CN/clash-for-android.html) |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
-| [ClashBox](https://clashproxy.net/zh-CN/clash-box.html) | 🟢 | ❌ | ❌ | ❌ | ❌ | ✅ |[官方](https://github.com/xiaobaigroup/ClashBox/releases) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
-| [Karing](#Karing) | 🟢  |  ✅ |  ❌ | ✅ | ❌ | ❌ |[官方](https://github.com/KaringX/karing/releases) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
-| [Nyanpasu](#Nyanpasu) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |[官方](https://github.com/libnyanpasu/clash-nyanpasu/releases) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
-| [Pandora-Box](#Pandora-Box) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |[官方](https://github.com/snakem982/Pandora-Box/releases) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
-| [Mihomo-Party](#Mihomo-Party) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |[官方](https://github.com/mihomo-party-org/mihomo-party/releases) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
-| [Nekoray](#Nekoray) | 🔴  |  ✅  | ❌ |  ❌ | ❌ | ❌ |[官方](https://github.com/MatsuriDayo/nekoray/releases) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
-| [Qv2ray](#Qv2ray) | 🔴  |  ✅  | ✅ |  ❌ | ✅ | ❌ |[官方](https://github.com/mihomo-party-org/mihomo-party/releases) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
-| [Shadowsocks-Android](#Shadowsocks-Android) | 🟢  |  ❌  | ❌ |  ✅ | ❌ | ❌ |[官方](https://github.com/shadowsocks/shadowsocks-android/releases) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
-| [Spectre VPN](#SpectreVPN) | 🟢  |  ❌  | ❌ | ❌  | ✅ | ❌ |[商店](https://apps.apple.com/us/app/spectre-vpn/id1508712998) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
-| [Clash-Party](#Clash-Party) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |[官方](https://github.com/mihomo-party-org/clash-party/releases) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
-| [Surge for iOS](https://apps.apple.com/us/app/surge-5/id1442620678) | 🟢  |  ❌  | ❌ |  ❌ | ✅ | ❌ |[商店](https://apps.apple.com/us/app/surge-5/id1442620678) | - |[免费试用](https://t.polarisnet.cloud/#/register?code=G53csTkQ)|
+| 客户端 | 维护状态 |  Windows | macOS | Android | iOS | 鸿蒙 | 仓库 | 教程 |
+|--------|----------|----------|----------|----------|----------|------|------|------|
+| [FlClash](https://clashproxy.net/zh-CN/flclash.html) | 🟢 | ✅ | ✅ | ✅ | ❌ | ❌ | [官方](https://github.com/chen08209/FlClash/releases) | [前往](https://clashproxy.net/zh-CN/flclash.html) |
+| [Clash Verge Rev](https://clashproxy.net/zh-CN/clash-verge.html) | 🟢 | ✅ | ✅ | ❌ | ❌ | ❌ |[官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [前往](https://clashproxy.net/zh-CN/clash-verge.html) |
+| [ClashMi](#-clashmi) | 🟢 |  ✅ | ✅ | ✅ | ✅ |❌ | [官方](https://github.com/KaringX/clashmi/releases) | - |
+| [GUI for Clash](#-gui-for-clash) | 🟢 |  ✅ | ✅ | ❌ | ❌ | ❌ |[官方](https://github.com/GUI-for-Cores/GUI.for.Clash/releases) | - |
+| [V2rayN](#-v2rayN) | 🟢 |  ✅ | ❌ | ❌ | ❌ | ❌ |[官方](https://github.com/2dust/v2rayN/releases) | - |
+| [Hiddify Next](https://clashproxy.net/zh-CN/hiddify.html) | 🟢 | ✅ | ✅ | ✅ | ✅ | ❌ |[官方](https://github.com/hiddify/hiddify-app/releases) | - |
+| [Clash Meta for Android](https://clashproxy.net/zh-CN/clash-meta-for-android.html) | 🟢 | ❌ | ❌ | ✅ | ❌ | ❌ |[官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [前往](https://clashproxy.net/zh-CN/clash-meta-for-android.html) |
+| [Clash Verge](https://clashproxy.net/zh-CN/clash-verge.html) | 🔴 |  ✅ | ✅ | ❌ | ❌ | ❌ |[备份](https://github.com/clash-version/clash-verge) | [前往](https://clashproxy.net/zh-CN/clash-verge) |
+| [Clash for Windows](https://clashproxy.net/zh-CN/clash-for-windows.html) | 🔴 |✅ | ✅ | ❌ | ❌ | ❌ |[备份](https://github.com/clash-version/clash-for-windows) | [前往](https://clashproxy.net/zh-CN/clash-for-windows) |
+| [ClashX](https://clashproxy.net/zh-CN/clashx.html) | 🔴 |  ❌ | ✅ | ❌ | ❌ |❌ | [备份](https://github.com/clash-version/clashx) | [前往](https://clashproxy.net/zh-CN/clashx) |
+| [Clash for Android](https://clashproxy.net/zh-CN/clash-for-android.html) | 🔴 | ❌ | ❌ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version/clash-for-android) | [前往](https://clashproxy.net/zh-CN/clash-for-android.html) |
+| [ClashBox](https://clashproxy.net/zh-CN/clash-box.html) | 🟢 | ❌ | ❌ | ❌ | ❌ | ✅ |[官方](https://github.com/xiaobaigroup/ClashBox/releases) | - |
+| [Karing](#Karing) | 🟢  |  ✅ |  ❌ | ✅ | ❌ | ❌ |[官方](https://github.com/KaringX/karing/releases) | - |
+| [Nyanpasu](#Nyanpasu) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |[官方](https://github.com/libnyanpasu/clash-nyanpasu/releases) | - |
+| [Pandora-Box](#Pandora-Box) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |[官方](https://github.com/snakem982/Pandora-Box/releases) | - |
+| [Mihomo-Party](#Mihomo-Party) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |[官方](https://github.com/mihomo-party-org/mihomo-party/releases) | - |
+| [Nekoray](#Nekoray) | 🔴  |  ✅  | ❌ |  ❌ | ❌ | ❌ |[官方](https://github.com/MatsuriDayo/nekoray/releases) | - |
+| [Qv2ray](#Qv2ray) | 🔴  |  ✅  | ✅ |  ❌ | ✅ | ❌ |[官方](https://github.com/mihomo-party-org/mihomo-party/releases) | - |
+| [Shadowsocks-Android](#Shadowsocks-Android) | 🟢  |  ❌  | ❌ |  ✅ | ❌ | ❌ |[官方](https://github.com/shadowsocks/shadowsocks-android/releases) | - |
+| [Spectre VPN](#SpectreVPN) | 🟢  |  ❌  | ❌ | ❌  | ✅ | ❌ |[商店](https://apps.apple.com/us/app/spectre-vpn/id1508712998) | - |
+| [Clash-Party](#Clash-Party) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |[官方](https://github.com/mihomo-party-org/clash-party/releases) | - |
+| [Surge for iOS](https://apps.apple.com/us/app/surge-5/id1442620678) | 🟢  |  ❌  | ❌ |  ❌ | ✅ | ❌ |[商店](https://apps.apple.com/us/app/surge-5/id1442620678) | - |
 
 ---
+
+
+<h2 style="color: #172b4d; border-bottom: 1px solid #eee; padding-bottom: 10px; margin-top: 30px;">⭐ 推荐机场 <a href='https://t.polarisnet.cloud/#/register?code=G53csTkQ'>PolarisNet</a> </h2>
+
+<h3 style="color: #172b4d; border-bottom: 1px solid #eee; padding-bottom: 10px; margin-top: 30px;">推荐理由</h3>
+<ul style="padding-left: 20px;">
+    <li style="margin-bottom: 10px;"><strong>稳定运营</strong>：已运营2年以上，稳定高速。</li>
+    <li style="margin-bottom: 10px;"><strong>套餐多样</strong>：可以按流量购买，买多少用多少。</li>
+    <li style="margin-bottom: 10px;"><strong>高性价比</strong>：BGP 中继线路,性价比极高</li>
+    <li style="margin-bottom: 10px;"><strong>解锁能力强</strong>：实测可解锁 Netflix、Disney+ 等流媒体以及 GPT、Gemini 等 AI 服务。</li>
+    <li style="margin-bottom: 10px;"><strong>多平台支持</strong>：支持 Windows、Mac、Android、iOS 等主流平台。</li>
+</ul>
+
+<h3 style="color: #172b4d; border-bottom: 1px solid #eee; padding-bottom: 10px; margin-top: 30px;">套餐与价格</h3>
+<table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
+    <thead>
+        <tr>
+            <th style="border: 1px solid #ddd; padding: 12px; text-align: center; background-color: #f2f2f2;">📶 流量</th>
+            <th style="border: 1px solid #ddd; padding: 12px; text-align: center; background-color: #f2f2f2;">💵 月付价格</th>
+            <th style="border: 1px solid #ddd; padding: 12px; text-align: center; background-color: #f2f2f2;">💵 年付价格</th>
+            <th style="border: 1px solid #ddd; padding: 12px; text-align: center; background-color: #f2f2f2;">💵 按流量购买</th>
+            <th style="border: 1px solid #ddd; padding: 12px; text-align: center; background-color: #f2f2f2;">🌐 官网</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">200G</td>
+            <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">¥19.9</td>
+            <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">¥199</td>
+            <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">¥79</td>
+            <td style="border: 1px solid #ddd; padding: 12px; text-align: center;"><a href='https://t.polarisnet.cloud'>前往</a></td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">500G</td>
+            <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">¥39.9</td>
+            <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">¥399</td>
+            <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">¥149</td>
+            <td style="border: 1px solid #ddd; padding: 12px; text-align: center;"><a href='https://t.polarisnet.cloud'>前往</a></td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">1024G</td>
+            <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">¥79.9</td>
+            <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">¥799</td>
+            <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">¥199</td>
+            <td style="border: 1px solid #ddd; padding: 12px; text-align: center;"><a href='https://t.polarisnet.cloud'>前往</a></td>
+        </tr>
+    </tbody>
+</table>
 
 ## 🚀 活跃更新客户端
 
