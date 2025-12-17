@@ -56,7 +56,7 @@
             <th style="border: 1px solid #ddd; padding: 12px; text-align: center; background-color: #f2f2f2;">💵 月付价格</th>
             <th style="border: 1px solid #ddd; padding: 12px; text-align: center; background-color: #f2f2f2;">💵 年付价格</th>
             <th style="border: 1px solid #ddd; padding: 12px; text-align: center; background-color: #f2f2f2;">💵 按流量购买</th>
-            <th style="border: 1px solid #ddd; padding: 12px; text-align: center; background-color: #f2f2f2;">🌐 官网</th>
+            <th style="border: 1px solid #ddd; padding: 12px; text-align: center; background-color: #f2f2f2;">🌐 是否支持试用 </th>
         </tr>
     </thead>
     <tbody>
@@ -65,21 +65,21 @@
             <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">¥19.9</td>
             <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">¥199</td>
             <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">¥79</td>
-            <td style="border: 1px solid #ddd; padding: 12px; text-align: center;"><a href='https://t.polarisnet.cloud'>前往</a></td>
+            <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">✅<a href='https://t.polarisnet.cloud'>注册试用1G高速流量</a></td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">500G</td>
             <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">¥39.9</td>
             <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">¥399</td>
             <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">¥149</td>
-            <td style="border: 1px solid #ddd; padding: 12px; text-align: center;"><a href='https://t.polarisnet.cloud'>前往</a></td>
+            <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">✅<a href='https://t.polarisnet.cloud'>注册试用1G高速流量</a></td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">1024G</td>
             <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">¥79.9</td>
             <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">¥799</td>
             <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">¥199</td>
-            <td style="border: 1px solid #ddd; padding: 12px; text-align: center;"><a href='https://t.polarisnet.cloud'>前往</a></td>
+            <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">✅<a href='https://t.polarisnet.cloud'>注册试用1G高速流量</a></td>
         </tr>
     </tbody>
 </table>
