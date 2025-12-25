@@ -24,7 +24,7 @@
 | [ClashX](https://clashproxy.net/zh-CN/clashx.html) | 🔴 |  ❌ | ✅ | ❌ | ❌ |❌ | [备份](https://github.com/clash-version/clashx) | [前往](https://clashproxy.net/zh-CN/clashx) |
 | [Clash for Android](https://clashproxy.net/zh-CN/clash-for-android.html) | 🔴 | ❌ | ❌ | ✅ | ❌ | ❌ | [备份](https://github.com/clash-version/clash-for-android) | [前往](https://clashproxy.net/zh-CN/clash-for-android.html) |
 | [ClashBox](https://clashproxy.net/zh-CN/clash-box.html) | 🟢 | ❌ | ❌ | ❌ | ❌ | ✅ |[官方](https://github.com/xiaobaigroup/ClashBox/releases) | - |
-| [Karing](#Karing) | 🟢  |  ✅ |  ❌ | ✅ | ❌ | ❌ |[官方](https://github.com/KaringX/karing/releases) | - |
+| [Karing](#Karing) | 🟢  |  ✅ |  ✅ | ✅ | ✅ | ❌ |[官方](https://github.com/KaringX/karing/releases) | - |
 | [Nyanpasu](#Nyanpasu) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |[官方](https://github.com/libnyanpasu/clash-nyanpasu/releases) | - |
 | [Pandora-Box](#Pandora-Box) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |[官方](https://github.com/snakem982/Pandora-Box/releases) | - |
 | [Mihomo-Party](#Mihomo-Party) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |[官方](https://github.com/mihomo-party-org/mihomo-party/releases) | - |
