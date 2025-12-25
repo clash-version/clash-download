@@ -10,7 +10,9 @@
 ---
 ## 📊 版本状态总览(停更版本仅备份仓库下载)
 
-| 客户端 | 维护状态 |  Windows | macOS | Android | iOS | 鸿蒙 | 仓库 | 教程 |
+> 这里的鸿蒙是指原生支持，鸿蒙系统可以通过卓易通安装安卓客户端,👉[鸿蒙系统使用卓易通安装Clash教程](https://clash.guide/zyt-clash.html)
+
+| 客户端 | 维护状态 |  Windows | macOS | Android | iOS | 鸿蒙(原生) | 仓库 | 教程 |
 |--------|----------|----------|----------|----------|----------|------|------|------|
 | [FlClash](https://clashproxy.net/zh-CN/flclash.html) | 🟢 | ✅ | ✅ | ✅ | ❌ | ❌ | [官方](https://github.com/chen08209/FlClash/releases) | [前往](https://clashproxy.net/zh-CN/flclash.html) |
 | [Clash Verge Rev](https://clashproxy.net/zh-CN/clash-verge.html) | 🟢 | ✅ | ✅ | ❌ | ❌ | ❌ |[官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [前往](https://clashproxy.net/zh-CN/clash-verge.html) |
