@@ -4,9 +4,15 @@
 
 欢迎来到 Clash 客户端导航！本页面为您汇总了各类 Clash 客户端，包含活跃更新项目和已停更项目，方便您查找和选择适合的工具。
 
-Github下载太慢可尝试👉[高速下载](https://openetkit.com)
+### **⭐推荐客户端**
+- **Windows 用户**：推荐 **[FlClashX](https://openetkit.com/flclashx/install)**（多平台）或 **[Clash Verge Rev](https://openetkit.com/clash-verge-rev/install)**(功能齐全)
+- **macOS 用户**：推荐 **[FlClashX](https://openetkit.com/flclashx/install)**（多平台）
+- **iOS 用户**：推荐 **[Clash Mi](https://openetkit.com/clashmi/install)**（免费开源）或 **[Potatso](https://apps.apple.com/us/app/potatso/id1239860606)**（免费）
+- **Android 用户**：推荐 **[Clash Meta for Android](https://openetkit.com/clash-meta-for-android/install)**、**[FlClashX](https://openetkit.com/flclashx/install)**
+- **鸿蒙用户**：推荐 **[使用桌易通安装Clash Meta for Android](https://openetkit.com/zhuoyitong)**，原生推荐 **[ClashBox](https://openetkit.com/clashbox/install)**（专为 HarmonyOS 优化,需要自签证书）
+- **路由器部署**：**[OpenClash](/openclash/install)**（OpenWRT 插件）
 
-[高速流量免费试用，流媒体/AI全解锁，最低￥0.19/G。](https://t.polarisnet.cloud/#/register?code=G53csTkQ)
+**👉[高速流量免费试用，流媒体/AI全解锁，最低￥0.19/G。](https://t.polarisnet.cloud/#/register?code=G53csTkQ)**
 
 ---
 ## 📊 版本状态总览(停更版本仅备份仓库下载)
@@ -17,7 +23,7 @@ Github下载太慢可尝试👉[高速下载](https://openetkit.com)
 | [Clash Verge Rev](https://clash.guide/clash-verge.html) | 🟢 | ✅ | ✅ | ❌ | ❌ | ❌ |✅ | [官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [前往](https://clash.guide/clash-verge.html) |
 | [ClashMi](https://github.com/KaringX/clashmi/releases) | 🟢 |  ✅ | ✅ | ✅ | ✅ |❌ | ✅ | [官方](https://github.com/KaringX/clashmi/releases) | - |
 | [GUI for Clash](https://github.com/GUI-for-Cores/GUI.for.Clash/releases) | 🟢 |  ✅ | ✅ | ❌ | ❌ | ❌  |✅ |[官方](https://github.com/GUI-for-Cores/GUI.for.Clash/releases) | - |
-| [V2rayN](https://github.com/2dust/v2rayN/releases) | 🟢 |  ✅ | ❌ | ❌ | ❌ | ❌ |❌ |[官方](https://github.com/2dust/v2rayN/releases) | - |
+| [V2rayN](https://github.com/2dust/v2rayN/releases) | 🟢 |  ✅ | ✅ | ❌ | ❌ | ❌ |❌ |[官方](https://github.com/2dust/v2rayN/releases) | - |
 | [Hiddify Next](https://clash.guide/hiddify.html) | 🟢 | ✅ | ✅ | ✅ | ✅ | ❌ |✅ |[官方](https://github.com/hiddify/hiddify-app/releases) | - |
 | [Clash Meta for Android](https://clash.guide/clash-meta-for-android.html) | 🟢 | ❌ | ❌ | ✅ | ❌ | ❌ |❌ |[官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [前往](https://clash.guide/clash-meta-for-android.html) |
 | [Clash Verge](https://clash.guide/clash-verge.html) | 🔴 |  ✅ | ✅ | ❌ | ❌ | ❌ |✅ |[备份](https://github.com/clash-version/clash-verge) | [前往](https://clash.guide/clash-verge) |
@@ -35,11 +41,15 @@ Github下载太慢可尝试👉[高速下载](https://openetkit.com)
 | [Spectre VPN](https://apps.apple.com/us/app/spectre-vpn/id1508712998) | 🟢  |  ❌  | ❌ | ❌  | ✅ | ❌ |❌ |[商店](https://apps.apple.com/us/app/spectre-vpn/id1508712998) | - |
 | [Clash-Party](https://github.com/mihomo-party-org/clash-party/releases) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |❌ |[官方](https://github.com/mihomo-party-org/clash-party/releases) | - |
 | [Surge for iOS](https://apps.apple.com/us/app/surge-5/id1442620678) | 🟢  |  ❌  | ❌ |  ❌ | ✅ | ❌ |❌ |[商店](https://apps.apple.com/us/app/surge-5/id1442620678) | - |
-| [FlClashX](https://github.com/pluralplay/FlClashX) | 🟢  |  ✅  | ✅ |  ✅ | ✅ | ❌ |✅ |[官方](https://github.com/pluralplay/FlClashX/releases) | - |
-| [Prizrak-Box](https://github.com/legiz-ru/Prizrak-Box) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |✅ |[官方](https://github.com/legiz-ru/Prizrak-Box/releases) | - |
-| [Throne](https://github.com/throneproj/Throne) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |✅ |[官方](https://github.com/throneproj/Throne/releases) | - |
-| [Husi](https://github.com/xchacha20-poly1305/husi) | 🟢  |  ❌  | ❌ |  ✅ | ❌ | ❌ |❌ |[官方](https://github.com/xchacha20-poly1305/husi) | - |
-| [NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) | 🟢  |  ❌  | ❌ |  ✅ | ❌ | ❌ |❌ |[官方](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases) | - |
+| [FlClashX](https://github.com/pluralplay/FlClashX/releases) | 🟢  |  ✅  | ✅ |  ✅ | ✅ | ❌ |✅ |[官方](https://github.com/pluralplay/FlClashX/releases) | - |
+| [Prizrak-Box](https://github.com/legiz-ru/Prizrak-Box/releases) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |✅ |[官方](https://github.com/legiz-ru/Prizrak-Box/releases) | - |
+| [Throne](https://github.com/throneproj/Throne/releases) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |✅ |[官方](https://github.com/throneproj/Throne/releases) | - |
+| [Husi](https://github.com/xchacha20-poly1305/husi/releases) | 🟢  |  ❌  | ❌ |  ✅ | ❌ | ❌ |❌ |[官方](https://github.com/xchacha20-poly1305/husi/releases) | - |
+| [NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases) | 🟢  |  ❌  | ❌ |  ✅ | ❌ | ❌ |❌ |[官方](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases) | - |
+| [OneXray](https://github.com/OneXray/OneXray/releases) | 🟢  |  ✅ |  ✅ | ✅ | ✅ | ❌ |✅ |[官方](https://github.com/OneXray/OneXray/releases) | - |
+| [Xray](https://github.com/SaeedDev94/Xray/releases) | 🟢  |  ❌  | ❌ |  ✅ | ❌ | ❌ |❌ |[官方](https://github.com/SaeedDev94/Xray/releases) | - |
+| [SimpleXray](https://github.com/lhear/SimpleXray/releases) | 🟢  |  ❌  | ❌ |  ✅ | ❌ | ❌ |❌ |[官方](https://github.com/lhear/SimpleXray/releases) | - |
+
 
 ---
 
