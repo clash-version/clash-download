@@ -4,7 +4,7 @@
 
 欢迎来到 Clash 客户端导航！本页面为您汇总了各类 Clash 客户端，包含活跃更新项目和已停更项目，方便您查找和选择适合的工具。
 > ⚠️停更的客户端无法兼容新协议导致节点不可用，建议更新到更安全、更美观、兼容性更好的新版本
-### **⭐推荐客户端**
+### **⭐推荐客户端及教程**
 
 - **Windows 用户**：推荐 **[FlClashX](https://openetkit.com/flclashx/install)**（多平台）、 **[Clash Verge Rev](https://openetkit.com/clash-verge-rev/install)**(功能齐全)
 - **macOS 用户**：推荐 **[FlClashX](https://openetkit.com/flclashx/install)**（多平台）、 **[Clash Verge Rev](https://openetkit.com/clash-verge-rev/install)**(功能齐全)
