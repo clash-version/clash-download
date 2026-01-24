@@ -11,7 +11,7 @@
 - **iOS 用户**：推荐 **[Clash Mi](https://openetkit.com/clashmi/install)**（免费开源）、 **[Potatso](https://apps.apple.com/us/app/potatso/id1239860606)**（免费）
 - **Android 用户**：推荐 **[Clash Meta for Android](https://openetkit.com/clash-meta-for-android/install)**、**[FlClashX](https://openetkit.com/flclashx/install)**
 - **鸿蒙用户**：推荐 **[使用桌易通安装Clash Meta for Android](https://openetkit.com/zhuoyitong)**，原生推荐 **[ClashBox](https://openetkit.com/clashbox/install)**（专为 HarmonyOS 优化,需要自签证书）
-- **路由器部署**：**[OpenClash](/openclash/install)**（OpenWRT 插件）
+- **路由器部署**：**[OpenClash](https://openetkit.com/openclash/install)**（OpenWRT 插件）
 
 **👉[高速流量免费试用，流媒体/AI全解锁，最低￥0.19/G。](https://t.polarisnet.cloud/#/register?code=G53csTkQ)**
 
