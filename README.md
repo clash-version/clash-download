@@ -4,13 +4,13 @@
 
 欢迎来到 Clash 客户端导航！本页面为您汇总了各类 Clash 客户端，包含活跃更新项目和已停更项目，方便您查找和选择适合的工具。
 > ⚠️停更的客户端无法兼容新协议导致节点不可用，建议更新到更安全、更美观、兼容性更好的新版本
-### **⭐推荐客户端及教程**
+### **⭐快速上手**
 
-- **Windows 用户**：推荐 **[FlClashX](https://openetkit.com/flclashx/install)**（多平台）、 **[Clash Verge Rev](https://openetkit.com/clash-verge-rev/install)**(功能齐全)
-- **macOS 用户**：推荐 **[FlClashX](https://openetkit.com/flclashx/install)**（多平台）、 **[Clash Verge Rev](https://openetkit.com/clash-verge-rev/install)**(功能齐全)
-- **iOS 用户**：推荐 **[Clash Mi](https://openetkit.com/clashmi/install)**（免费开源）、 **[Potatso](https://apps.apple.com/us/app/potatso/id1239860606)**（免费）
-- **Android 用户**：推荐 **[Clash Meta for Android](https://openetkit.com/clash-meta-for-android/install)**、**[FlClashX](https://openetkit.com/flclashx/install)**
-- **鸿蒙用户**：推荐 **[使用桌易通安装Clash Meta for Android](https://openetkit.com/zhuoyitong)**，原生推荐 **[ClashBox](https://openetkit.com/clashbox/install)**（专为 HarmonyOS 优化,需要自签证书）
+- **Windows 用户**： **[FlClashX](https://openetkit.com/flclashx/install)**（多平台）、 **[Clash Verge Rev](https://openetkit.com/clash-verge-rev/install)**(功能齐全)
+- **macOS 用户**： **[FlClashX](https://openetkit.com/flclashx/install)**（多平台）、 **[Clash Verge Rev](https://openetkit.com/clash-verge-rev/install)**(功能齐全)
+- **iOS 用户**： **[Clash Mi](https://openetkit.com/clashmi/install)**（免费开源）、 **[Potatso](https://apps.apple.com/us/app/potatso/id1239860606)**（免费）
+- **Android 用户**： **[Clash Meta for Android](https://openetkit.com/clash-meta-for-android/install)**、**[FlClashX](https://openetkit.com/flclashx/install)**
+- **鸿蒙用户**： **[使用桌易通安装Clash Meta for Android](https://openetkit.com/zhuoyitong)**，鸿蒙原生： **[ClashBox](https://openetkit.com/clashbox/install)**（专为 HarmonyOS 优化,需要自签证书）
 - **路由器部署**：**[OpenClash](https://openetkit.com/openclash/install)**（OpenWRT 插件）
 
 **👉[高速流量免费试用，流媒体/AI全解锁，最低￥0.19/G。](https://t.polarisnet.cloud/#/register?code=G53csTkQ)**
