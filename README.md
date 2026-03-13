@@ -1,144 +1,120 @@
----
+<div align="center">
+  <h1>Clash / Mihomo 客户端精选导航 (2026 最新版)</h1>
+  <p>
+    <b>Clash全平台代理客户端下载 | Windows / macOS / Android / iOS / Linux / OpenWRT</b>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Update-2026.03-brightgreen.svg" alt="Update">
+    <img src="https://img.shields.io/badge/Platform-Win%20%7C%20Mac%20%7C%20iOS%20%7C%20Android%20%7C%20Linux-blue.svg" alt="Platform">
+    <img src="https://img.shields.io/badge/Ecosystem-Clash%20%7C%20Mihomo%20%7C%20Sing--box%20%7C%20Xray-orange.svg" alt="Ecosystem">
+  </p>
+</div>
 
-# Clash 客户端导航 (2026年3月更新)
+随着代理客户端的频繁更迭，许多经典项目已停更或删库。建立本导航旨在帮您**掌握行业最新动态，防范魔改软件后门投毒**，本文所有地址均指向官方仓库
 
-欢迎来到 Clash 客户端导航！本页面为您汇总了各类 Clash 客户端，包含活跃更新项目和已停更项目，方便您查找和选择适合的工具。
-如果觉得对你有帮助，欢迎**Star**支持一下！
+**🤝 欢迎参与共建**：若您发现优秀的客户端、项目地址变更或停止维护的情况，欢迎提交 Issue 告知或发起 Pull Request。
 
-## 如何选择合适的客户端？
-⚠️停更的客户端无法兼容新协议导致节点不可用，建议更新到更安全、更美观、兼容性更好的新版本
-### 新手推荐：
-- **Windows 用户**：推荐 [FlClashX](https://flclashx.com)（现代化界面）或 [Clash Verge Rev](https://openetkit.com/clash-verge-rev/install) （功能齐全）
-- **macOS 用户**：推荐 [FlClashX](https://flclashx.com)（现代化界面）
-- **iOS 用户**：推荐 [Clash Mi](https://openetkit.com/clashmi/install)（免费开源）或 [Potatso](https://apps.apple.com/us/app/potatso/id1239860606)（免费）
-- **Android 用户**：推荐 [Clash Meta for Android](https://openetkit.com/clash-meta-for-android/install)（功能最强）
-- **鸿蒙用户**：推荐 [使用桌易通安装Clash Meta for Android](https://openetkit.com/zhuoyitong)，原生推荐[Clash Box](https://openetkit.com/clashbox/install)（专为 HarmonyOS 优化,需要自签证书）
-### 进阶用户：
-- 需要路由器部署：[OpenClash](https://openetkit.com/openclash/install)（OpenWRT 插件,实现全屋加速）
+## 📊 客户端状态总览
 
-**👉[高速流量免费试用，流媒体/AI全解锁，最低￥0.19/G。](https://t.polarisnet.cloud/#/register?code=G53csTkQ)**
-
----
-## 📊 版本状态总览(停更版本仅备份仓库下载)
-
-| 客户端 | 维护 |  Windows | macOS | Android | iOS | 鸿蒙 | Linux | 仓库 | 教程 |
-|--------|----------|----------|----------|----------|----------|------|------|------|------|
-| [FlClash](https://clash.guide/flclash.html) | 🟢 | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | [官方](https://github.com/chen08209/FlClash/releases) | [前往](https://clash.guide/flclash.html) |
-| [Clash Verge Rev](https://clash.guide/clash-verge.html) | 🟢 | ✅ | ✅ | ❌ | ❌ | ❌ |✅ | [官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [前往](https://clash.guide/clash-verge.html) |
-| [ClashMi](https://github.com/KaringX/clashmi/releases) | 🟢 |  ✅ | ✅ | ✅ | ✅ |❌ | ✅ | [官方](https://github.com/KaringX/clashmi/releases) | - |
-| [GUI for Clash](https://github.com/GUI-for-Cores/GUI.for.Clash/releases) | 🟢 |  ✅ | ✅ | ❌ | ❌ | ❌  |✅ |[官方](https://github.com/GUI-for-Cores/GUI.for.Clash/releases) | - |
-| [V2rayN](https://github.com/2dust/v2rayN/releases) | 🟢 |  ✅ | ✅ | ❌ | ❌ | ❌ |❌ |[官方](https://github.com/2dust/v2rayN/releases) | - |
-| [Hiddify Next](https://clash.guide/hiddify.html) | 🟢 | ✅ | ✅ | ✅ | ✅ | ❌ |✅ |[官方](https://github.com/hiddify/hiddify-app/releases) | - |
-| [Clash Meta for Android](https://clash.guide/clash-meta-for-android.html) | 🟢 | ❌ | ❌ | ✅ | ❌ | ❌ |❌ |[官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [前往](https://clash.guide/clash-meta-for-android.html) |
-| [Clash Verge](https://clash.guide/clash-verge.html) | 🔴 |  ✅ | ✅ | ❌ | ❌ | ❌ |✅ |[备份](https://github.com/clash-version/clash-verge) | [前往](https://clash.guide/clash-verge) |
-| [Clash for Windows](https://clash.guide/clash-for-windows.html) | 🔴 |✅ | ✅ | ❌ | ❌ | ❌ |❌ |[备份](https://github.com/clash-version/clash-for-windows) | [前往](https://clash.guide/clash-for-windows) |
-| [ClashX](https://clash.guide/clashx.html) | 🔴 |  ❌ | ✅ | ❌ | ❌ |❌ |❌ | [备份](https://github.com/clash-version/clashx) | [前往](https://clash.guide/clashx) |
-| [Clash for Android](https://clash.guide/clash-for-android.html) | 🔴 | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |[备份](https://github.com/clash-version/clash-for-android) | [前往](https://clash.guide/clash-for-android.html) |
-| [ClashBox](https://clash.guide/clash-box.html) | 🟢 | ❌ | ❌ | ❌ | ❌ | ✅ |❌ |[官方](https://github.com/xiaobaigroup/ClashBox/releases) | - |
-| [Karing](https://github.com/KaringX/karing/releases) | 🟢  |  ✅ |  ✅ | ✅ | ✅ | ❌ |✅ |[官方](https://github.com/KaringX/karing/releases) | - |
-| [Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu/releases) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |❌ |[官方](https://github.com/libnyanpasu/clash-nyanpasu/releases) | - |
-| [Pandora-Box](https://github.com/snakem982/Pandora-Box/releases) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |❌ |[官方](https://github.com/snakem982/Pandora-Box/releases) | - |
-| [Mihomo-Party](https://github.com/mihomo-party-org/mihomo-party/releases) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |❌ |[官方](https://github.com/mihomo-party-org/mihomo-party/releases) | - |
-| [Nekoray](https://github.com/MatsuriDayo/nekoray/releases) | 🔴  |  ✅  | ❌ |  ❌ | ❌ | ❌ |❌ |[官方](https://github.com/MatsuriDayo/nekoray/releases) | - |
-| [Qv2ray](https://github.com/mihomo-party-org/mihomo-party/releases) | 🔴  |  ✅  | ✅ |  ❌ | ✅ | ❌ |❌ |[官方](https://github.com/mihomo-party-org/mihomo-party/releases) | - |
-| [Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android/releases) | 🟢  |  ❌  | ❌ |  ✅ | ❌ | ❌ |❌ |[官方](https://github.com/shadowsocks/shadowsocks-android/releases) | - |
-| [Spectre VPN](https://apps.apple.com/us/app/spectre-vpn/id1508712998) | 🟢  |  ❌  | ❌ | ❌  | ✅ | ❌ |❌ |[商店](https://apps.apple.com/us/app/spectre-vpn/id1508712998) | - |
-| [Clash-Party](https://github.com/mihomo-party-org/clash-party/releases) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |❌ |[官方](https://github.com/mihomo-party-org/clash-party/releases) | - |
-| [Surge for iOS](https://apps.apple.com/us/app/surge-5/id1442620678) | 🟢  |  ❌  | ❌ |  ❌ | ✅ | ❌ |❌ |[商店](https://apps.apple.com/us/app/surge-5/id1442620678) | - |
-| [FlClashX](https://github.com/pluralplay/FlClashX/releases) | 🟢  |  ✅  | ✅ |  ✅ | ✅ | ❌ |✅ |[官方](https://github.com/pluralplay/FlClashX/releases) | - |
-| [Prizrak-Box](https://github.com/legiz-ru/Prizrak-Box/releases) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |✅ |[官方](https://github.com/legiz-ru/Prizrak-Box/releases) | - |
-| [Throne](https://github.com/throneproj/Throne/releases) | 🟢  |  ✅  | ✅ |  ❌ | ❌ | ❌ |✅ |[官方](https://github.com/throneproj/Throne/releases) | - |
-| [Husi](https://github.com/xchacha20-poly1305/husi/releases) | 🟢  |  ❌  | ❌ |  ✅ | ❌ | ❌ |❌ |[官方](https://github.com/xchacha20-poly1305/husi/releases) | - |
-| [NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases) | 🟢  |  ❌  | ❌ |  ✅ | ❌ | ❌ |❌ |[官方](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases) | - |
-| [OneXray](https://github.com/OneXray/OneXray/releases) | 🟢  |  ✅ |  ✅ | ✅ | ✅ | ❌ |✅ |[官方](https://github.com/OneXray/OneXray/releases) | - |
-| [Xray](https://github.com/SaeedDev94/Xray/releases) | 🟢  |  ❌  | ❌ |  ✅ | ❌ | ❌ |❌ |[官方](https://github.com/SaeedDev94/Xray/releases) | - |
-| [SimpleXray](https://github.com/lhear/SimpleXray/releases) | 🟢  |  ❌  | ❌ |  ✅ | ❌ | ❌ |❌ |[官方](https://github.com/lhear/SimpleXray/releases) | - |
-
+| 客户端 (Client) | 维护状态 | 适用平台 (OS) | 传送门 (Link) | 推荐度 (Stars) |
+| :--- | :---: | :--- | :--- | :--- |
+| **[FlClash](https://github.com/chen08209/FlClash)** | 🟢 | `Windows` `Mac` `Android` `Linux` | [Releases 下载](https://github.com/chen08209/FlClash/releases) | ![](https://img.shields.io/github/stars/chen08209/FlClash?style=social) |
+| **[Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev)**| 🟢 | `Windows` `Mac` `Linux` | [Releases 下载](https://github.com/clash-verge-rev/clash-verge-rev/releases)| ![](https://img.shields.io/github/stars/clash-verge-rev/clash-verge-rev?style=social) |
+| **[ClashMi](https://github.com/KaringX/clashmi)** | 🟢 | `Windows` `Mac` `Android` `iOS` `Linux` | [Releases 下载](https://github.com/KaringX/clashmi/releases) | ![](https://img.shields.io/github/stars/KaringX/clashmi?style=social) |
+| **[GUI for Clash](https://github.com/GUI-for-Cores/GUI.for.Clash)**| 🟢 | `Windows` `Mac` `Linux` | [Releases 下载](https://github.com/GUI-for-Cores/GUI.for.Clash/releases)| ![](https://img.shields.io/github/stars/GUI-for-Cores/GUI.for.Clash?style=social) |
+| **[V2rayN](https://github.com/2dust/v2rayN)** | 🟢 | `Windows` `Mac` | [Releases 下载](https://github.com/2dust/v2rayN/releases) | ![](https://img.shields.io/github/stars/2dust/v2rayN?style=social) |
+| **[Hiddify Next](https://github.com/hiddify/hiddify-app)**| 🟢 | `Windows` `Mac` `Android` `iOS` `Linux` | [Releases 下载](https://github.com/hiddify/hiddify-app/releases) | ![](https://img.shields.io/github/stars/hiddify/hiddify-app?style=social) |
+| **[Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid)**| 🟢 | `Android` | [Releases 下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)| ![](https://img.shields.io/github/stars/MetaCubeX/ClashMetaForAndroid?style=social) |
+| **[Karing](https://github.com/KaringX/karing)** | 🟢 | `Windows` `Mac` `Android` `iOS` `Linux` | [Releases 下载](https://github.com/KaringX/karing/releases) | ![](https://img.shields.io/github/stars/KaringX/karing?style=social) |
+| **[Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu)**| 🟢 | `Windows` `Mac` | [Releases 下载](https://github.com/libnyanpasu/clash-nyanpasu/releases)| ![](https://img.shields.io/github/stars/libnyanpasu/clash-nyanpasu?style=social) |
+| **[Mihomo-Party](https://github.com/mihomo-party-org/mihomo-party)**| 🟢 | `Windows` `Mac` `Linux` | [Releases 下载](https://github.com/mihomo-party-org/mihomo-party/releases)| ![](https://img.shields.io/github/stars/mihomo-party-org/mihomo-party?style=social) |
+| **[NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)**| 🟢 | `Android` | [Releases 下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)| ![](https://img.shields.io/github/stars/MatsuriDayo/NekoBoxForAndroid?style=social) |
+| **[ClashBox](https://github.com/xiaobaigroup/ClashBox)**| 🟢 | `鸿蒙OS` | [Releases 下载](https://github.com/xiaobaigroup/ClashBox/releases) | ![](https://img.shields.io/github/stars/xiaobaigroup/ClashBox?style=social) |
+| **[Pandora-Box](https://github.com/snakem982/Pandora-Box)**| 🟢 | `Windows` `Mac` | [Releases 下载](https://github.com/snakem982/Pandora-Box/releases)| ![](https://img.shields.io/github/stars/snakem982/Pandora-Box?style=social) |
+| **[Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android)**| 🟢 | `Android` | [Releases 下载](https://github.com/shadowsocks/shadowsocks-android/releases)| ![](https://img.shields.io/github/stars/shadowsocks/shadowsocks-android?style=social) |
+| **[Spectre VPN](https://apps.apple.com/us/app/spectre-vpn/id1508712998)**| 🟢 | `iOS` | [App Store](https://apps.apple.com/us/app/spectre-vpn/id1508712998) | - |
+| **[Surge for iOS](https://apps.apple.com/us/app/surge-5/id1442620678)**| 🟢 | `iOS` | [App Store](https://apps.apple.com/us/app/surge-5/id1442620678) | - |
+| **[Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)**| 🟢 | `iOS` | [App Store](https://apps.apple.com/us/app/shadowrocket/id932747118) | - |
+| **[Clash Verge](https://github.com/clash-version/clash-verge)**| 🔴 | `Windows` `Mac` `Linux` | 已归档 (停更) | - |
+| **[Clash for Windows](https://github.com/clash-version/clash-for-windows)**| 🔴 | `Windows` `Mac` | 已归档 (停更) | - |
+| **[ClashX](https://github.com/clash-version/clashx)**| 🔴 | `Mac` | 已归档 (停更) | - |
+| **[Clash for Android](https://github.com/clash-version/clash-for-android)**| 🔴 | `Android` | 已归档 (停更) | - |
+| **[Nekoray](https://github.com/MatsuriDayo/nekoray)**| 🔴 | `Windows` `Linux` | 已归档 (停更) | - |
 
 ---
 
-## 🚀 活跃更新客户端
+## ⚡ 快速安装手册
 
-以下是目前仍在积极维护和更新的 Clash 客户端，推荐您优先考虑：
+如果您不想阅读长文评估，可以直接参考以下按平台的**最优解推荐**：
 
-### Hiddify Next
+| 适用平台 / 场景 | 首选推荐 | 备选推荐 | 核心特点说明 |
+| :--- | :--- | :--- | :--- |
+| **Windows 桌面前端** | [**Clash Verge Rev**](https://openetkit.com/clash-verge-rev/install) |[FlClashX](https://openetkit.com/flclashx/install) |  界面现代、上手快、兼容性极佳 |
+| **macOS 苹果电脑** |[**Clash Verge Rev**](https://openetkit.com/clash-verge-rev/install) | [FlClashX](https://openetkit.com/flclashx/install) | 提供成熟的桌面级系统代理接管体验 |
+| **Android 安卓手机** | [**Clash Meta for Android**](https://openetkit.com/clash-meta-for-android) |[FlClashX](https://openetkit.com/flclashx/install)  | Mihomo 官方维护核心，社区广泛认可 |
+| **iOS / iPad 苹果设备**| [**Shadowrocket**](https://apps.apple.com/us/app/shadowrocket/id932747118) | [ClashMi](https://openetkit.com/clashmi/install) | iOS 端最经典的选择（小火箭），支持协议广泛且稳定 |
+| **HarmonyOS 鸿蒙原生**| [**ClashBox**](https://openetkit.com/clashbox/install) 需自签证书 | [桌易通方案](https://clash.guide/zyt-clash) | 匹配鸿蒙原生生态，基础代理稳定 |
+| **路由器 / OpenWRT** | [**OpenClash**](https://openetkit.com/openclash/install) | ShellCrash | 适合高阶玩家实现全屋透明代理方案 |
 
-✨ **Hiddify Next** 是一款功能强大的代理客户端，致力于提供高效稳定的连接体验。它支持多种协议，界面简洁易用。
-
-* **下载地址**: [https://github.com/hiddify/hiddify-app/releases](https://github.com/hiddify/hiddify-app/releases)
-* **使用教程**: [https://hiddifynext.org/](https://hiddifynext.org/)
-
-### FlClash
-
-⚡️ **FlClash** 提供了简洁高效的代理体验，界面设计友好，操作直观。
-
-* **下载地址**: [https://github.com/chen08209/FlClash/releases](https://github.com/chen08209/FlClash/releases)
-* **使用教程**: [https://getflclash.org/](https://getflclash.org/)
-
-### Clash Nyanpasu
-
-🐾 **Clash Nyanpasu** 以其独特的用户界面和丰富的功能而闻名，深受社区喜爱，提供个性化的代理体验。
-
-* **下载地址**: [https://github.com/libnyanpasu/clash-nyanpasu/releases](https://github.com/libnyanpasu/clash-nyanpasu/releases)
-* **使用教程**: [https://clashnyanpasu.org/](https://clashnyanpasu.org/)
-
-### Clash Verge Rev
-
-🔄 **Clash Verge Rev** 是 Clash Verge 的社区维护版本，在原版停更后，由社区持续提供更新和优化，确保用户能继续获得良好的使用体验。
-
-* **下载地址**: [https://github.com/clash-verge-rev/clash-verge-rev/releases](https://github.com/clash-verge-rev/clash-verge-rev/releases)
-* **使用教程**: [https://clashvergerev.org/](https://clashvergerev.org/)
-
-### Clash.Meta (核心)
-
-⚙️ **Clash.Meta** 是 Clash 核心的增强版本，提供了更多高级功能和协议支持。许多第三方客户端都基于此核心开发，是稳定运行的基础。
-
-* **项目地址**: [https://github.com/MetaCubeX/Clash.Meta](https://github.com/MetaCubeX/Clash.Meta)
-
-### Clashmi
-
-📱 **Clashmi** 是一款基于 **Clash.Meta** 核心开发的客户端，提供多平台支持，力求轻量级且易于部署。
-
-* **项目地址**: [https://github.com/clashmi/clashmi](https://github.com/clashmi/clashmi)
-
-### V2box
-
-📦 **V2box** 是一款集成多种代理协议的客户端，提供了用户友好的界面和丰富的配置选项，适合需要多协议支持的用户。
-
-* **项目地址**: [https://github.com/v2box/v2box](https://github.com/v2box/v2box)
-
-### Fyrouter
-
-🌐 **Fyrouter** 专注于提供轻量级且高性能的路由解决方案，适合对性能有较高要求的用户。
-
-* **项目地址**: [https://github.com/fyrouter/fyrouter](https://github.com/fyrouter/fyrouter)
-
-### Gui.for.Clash
-
-💻 **Gui.for.Clash** 是一个为 Clash 设计的图形用户界面工具，旨在简化配置和管理，让新手也能轻松上手。
-
-* **项目地址**: [https://github.com/Dreamacro/gui.for.clash](https://github.com/Dreamacro/gui.for.clash)
+**👉 [高速流量免费试用，流媒体 / AI 全解锁，按量付费](https://coolgo.network/shop)**
 
 ---
 
-## 🚨 已停更客户端
+## 💡 为什么建议优先选择仍在维护的客户端？
 
-以下客户端已停止更新，可能存在兼容性或安全性问题，**不推荐新用户使用**。仅供历史参考。
+很多老版本客户端（如经典的 Clash for Windows, ClashX 等）已经删库或停止更新，继续使用的常见问题包括：
+- **兼容性缺失**：无法兼容新协议（如 Hysteria2、VLESS Reality）或新版内核（Mihomo）。
+- **节点不可用**：订阅导入后解析错误，导致节点无法测速和使用。
+- **安全与稳定隐患**：缺少安全更新，新系统版本适配不足，容易出现内存泄漏、闪退或功能异常。
 
-### Clash Verge
-
-* **下载与教程**: [https://clash.guide/clash-verge/](https://clash.guide/clash-verge.html)
-
-### Clash for Windows
-
-* **下载与教程**: [https://clash.guide/clash-for-windows/](https://clash.guide/clash-for-windows.html)
-
-### ClashX
-
-* **下载与教程**: [https://clash.guide/clashx](https://clash.guide/clashx.html)
-
-### Clash for Android
-
-* **下载与教程**: [https://clash.guide/clash-for-android/](https://clash.guide/clash-for-android.html)
+**结论：为了更好的安全性、网络体验和协议兼容性，新用户请务必优先选择活跃更新的开源或免费维护项目。**
 
 ---
+
+## 🥇 目前最值得关注的活跃项目
+
+以下项目更新活跃、GitHub 社区认可度（Stars）高、涵盖主流平台、新手学习曲线友好，强烈建议作为主力工具：
+
+### 1. [FlClashX](https://github.com/pluralplay/FlClashX/releases)
+* **适用人群：** 想要现代 UI 界面、多平台统一覆盖、少折腾的跨端用户。
+* **核心优势：** Fluent Design 设计，界面美观；多平台跨端同步能力强；自动聚合订阅与节点测速。
+
+### 2. [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)
+* **适用人群：** 从 CFW 迁移过来，更看重桌面端高级路由功能、Tun 模式和生态延续性的用户。
+* **核心优势：** 社区目前维护最积极的桌面分支之一，完美继承 Clash Verge 生态，提供系统级稳定接管（Win/Mac/Linux）。
+* **教程入口：** [Clash Verge Rev 安装与配置图文指北](https://openetkit.com/clash-verge-rev/install)
+
+### 3. [Clash Meta for Android (CMFA)](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+* **适用人群：** Android 主力用户与硬核玩家。
+* **核心优势：** 基于强大的 Meta (Mihomo) 开源内核，对新协议和复杂网络环境的兼容性最强，是 Android 端的满分答卷。
+* **教程入口：** [CMFA 快速上手指南](https://clash.guide/clash-meta-for-android.html)
+
+### 4. [Hiddify Next](https://github.com/hiddify/hiddify-app/releases)
+* **适用人群：** 免配置小白用户以及多协议（Sing-box）体验者。
+* **核心优势：** 基于 Sing-box 构建，支持极其丰富的协议。UI 非常傻瓜化和友好，适合普通用户真正做到“一键连通”。
+
+### 5. [ClashMi](https://github.com/KaringX/clashmi/releases)
+* **适用人群：** 经常在手机端和桌面端切换协作的用户。
+* **核心优势：** 全平台支持（包含 iOS 侧载/TestFlight 与 Android），轻量敏捷。
+
+---
+
+
+## ⚠️ 已停更客户端（不建议新用户使用）
+
+以下经典项目曾在特定历史时期拥有庞大的用户量，但由于核心开发者退出等原因现已宣布停更。由于它们无法支持最新的 Mihomo 特性与新型加密协议，如果您是第一次搭建环境，**建议直接从上方表格中选择绿色 🟢 标识的项目下载**，以免遇到解析错误和未知闪退：
+
+- ❌ `Clash for Windows` (CFW) -> 请迁移至 **Clash Verge Rev** 或 **GUI for Clash**
+- ❌ `Clash Verge` (原版) -> 请迁移至 **Clash Verge Rev**
+- ❌ `ClashX` -> 请迁移至 **ClashX Meta** 或 **FlClashX**
+- ❌ `Clash for Android` (CFA) -> 请迁移至 **Clash Meta for Android**
+- ❌ `Nekoray` -> 请迁移至基于 Sing-box 或者 Mihomo 系的新型客户端
+
+---
+
+
+## ⚖️ 免责声明 (Disclaimer)
+
+* 本文 / 本项目仅收集并整理 GitHub 等开源平台中公开的计算机网络测试和研究辅助工具。
+* 此列表不提供任何节点服务、不提供任何非法用途指导。
+* 请遵循您所在国家/地区的相关法律法规，在合法合规的框架下使用相关软件。任何因不正当使用引发的问题及法律责任概由使用者自行承担。
