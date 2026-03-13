@@ -10,9 +10,7 @@
   </p>
 </div>
 
-随着代理客户端的频繁更迭，许多经典项目已停更或删库。建立本导航旨在帮您**掌握行业最新动态，防范魔改软件后门投毒**，本文所有地址均指向官方仓库
-
-**🤝 欢迎参与共建**：若您发现优秀的客户端、项目地址变更或停止维护的情况，欢迎提交 Issue 告知或发起 Pull Request。
+&emsp;&emsp;随着代理客户端的频繁更迭，许多经典项目已停更或删库。建立本导航旨在帮您**掌握行业最新动态，防范魔改软件后门投毒**，本文所有地址均指向官方仓库。如果您觉得本仓库对您有帮助，欢迎点击右上角的 **⭐ Star** 支持。
 
 ## 📊 客户端状态总览
 
@@ -41,8 +39,9 @@
 | **[Clash for Android](https://github.com/clash-version/clash-for-android)**| 🔴 | `Android` | 已归档 (停更) | - |
 | **[Nekoray](https://github.com/MatsuriDayo/nekoray)**| 🔴 | `Windows` `Linux` | 已归档 (停更) | - |
 
----
+**🤝 欢迎参与共建**：若您发现优秀的客户端、项目地址变更或停止维护的情况，欢迎提交 Issue 告知或发起 Pull Request。
 
+---
 ## ⚡ 快速安装手册
 
 如果您不想阅读长文评估，可以直接参考以下按平台的**最优解推荐**：
@@ -56,7 +55,7 @@
 | **HarmonyOS 鸿蒙原生**| [**ClashBox**](https://openetkit.com/clashbox/install) 需自签证书 | [桌易通方案](https://clash.guide/zyt-clash) | 匹配鸿蒙原生生态，基础代理稳定 |
 | **路由器 / OpenWRT** | [**OpenClash**](https://openetkit.com/openclash/install) | ShellCrash | 适合高阶玩家实现全屋透明代理方案 |
 
-**👉 [高速流量免费试用，流媒体 / AI 全解锁，按量付费](https://coolgo.network/shop)**
+**性价比机场：** 👉 [高速流量免费试用，流媒体 / AI 全解锁，按量付费](https://coolgo.network/shop)
 
 ---
 
