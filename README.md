@@ -10,9 +10,10 @@
   </p>
 </div>
 
-&emsp;&emsp;随着代理技术的不断演进，许多曾经经典的客户端（如经典的 Clash for Windows, ClashX 等）已宣布停更或归档。面对繁杂的后续衍生分支，**本仓库旨在为广大用户整理一个中立、客观的 Clash / Mihomo 生态导航**，帮助大家厘清项目脉络，掌握行业最新动态，**并有效防范各类非官方魔改软件带来的后门与安全隐患**。
+&emsp;&emsp;随着代理技术的不断演进，Clash for Windows、ClashX 等经典客户端已相继停更或归档，各类衍生分支层出不穷、良莠不齐。**本仓库旨在为用户提供一份中立、客观的 Clash / Mihomo 生态导航**，帮助大家厘清项目脉络、紧跟社区最新动态，**同时警惕非官方魔改版本可能带来的后门与安全风险**。
 
-&emsp;&emsp;如果您认可本项目的价值，愿意共同维护一个健康、开放的代理衍生生态，欢迎点击右上角的 **⭐ Star** 给予支持！
+&emsp;&emsp;如果您觉得本项目有所帮助，欢迎点击右上角的 **⭐ Star** 给予支持，也期待您一同维护健康、开放的代理工具生态！
+
 
 ---
 
@@ -20,6 +21,7 @@
 
 | 客户端 (Client) | 维护状态 | 适用平台 (OS) | 传送门 (Link) | 推荐度 (Stars) |
 | :--- | :---: | :--- | :--- | :--- |
+| **[FlClashX](https://github.com/pluralplay/FlClashX)** | 🟢 | `Windows` `Mac` `Android` `Linux` | [Releases 下载](https://github.com/pluralplay/FlClashX/releases) | ![](https://img.shields.io/github/stars/pluralplay/FlClashX?style=social) |
 | **[FlClash](https://github.com/chen08209/FlClash)** | 🟢 | `Windows` `Mac` `Android` `Linux` | [Releases 下载](https://github.com/chen08209/FlClash/releases) | ![](https://img.shields.io/github/stars/chen08209/FlClash?style=social) |
 | **[Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev)**| 🟢 | `Windows` `Mac` `Linux` | [Releases 下载](https://github.com/clash-verge-rev/clash-verge-rev/releases)| ![](https://img.shields.io/github/stars/clash-verge-rev/clash-verge-rev?style=social) |
 | **[ClashMi](https://github.com/KaringX/clashmi)** | 🟢 | `Windows` `Mac` `Android` `iOS` `Linux` | [Releases 下载](https://github.com/KaringX/clashmi/releases) | ![](https://img.shields.io/github/stars/KaringX/clashmi?style=social) |
