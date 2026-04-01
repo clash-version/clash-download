@@ -1,21 +1,21 @@
 <div align="center">
-  <h1>Clash / Mihomo 客户端精选导航 (2026 最新版)</h1>
+  <h1>Clash / Mihomo 客户端导航 (2026年4月更新)</h1>
   <p>
     <b>Clash全平台代理客户端下载 | Windows / macOS / Android / iOS / Linux / OpenWRT</b>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Update-2026.03-brightgreen.svg" alt="Update">
+    <img src="https://img.shields.io/badge/Update-2026.04-brightgreen.svg" alt="Update">
     <img src="https://img.shields.io/badge/Platform-Win%20%7C%20Mac%20%7C%20iOS%20%7C%20Android%20%7C%20Linux-blue.svg" alt="Platform">
     <img src="https://img.shields.io/badge/Ecosystem-Clash%20%7C%20Mihomo%20%7C%20Sing--box%20%7C%20Xray-orange.svg" alt="Ecosystem">
   </p>
 </div>
 
-&emsp;&emsp;随着代理技术的不断演进，Clash for Windows、ClashX 等经典客户端已相继停更或归档，各类衍生分支层出不穷、良莠不齐。**本仓库旨在为用户提供一份中立、客观的 Clash / Mihomo 生态导航**，帮助大家厘清项目脉络、紧跟社区最新动态，**同时警惕非官方魔改版本可能带来的后门与安全风险**。
+&emsp;&emsp;本仓库旨在为用户提供一份中立、客观的 Clash / Mihomo 生态客户端下载导航，掌握Clash / Mohomo社区动态，防非官方魔改版本可能带来的后门与安全风险。
+如果您觉得本项目有所帮助，欢迎点击右上角的 **⭐ Star** 给予支持！🔗 Fork 到本地以防失联。
 
-&emsp;&emsp;如果您觉得本项目有所帮助，欢迎点击右上角的 **⭐ Star** 给予支持，也期待您一同维护健康、开放的代理工具生态！
+👉 [免费订阅试用，AI、流媒体 全解锁，可按流量购买](https://coolgo.cloud)
 
-
----
+👉 [客户端使用教程](https://openetkit.com/download)
 
 ## 📊 客户端状态总览
 
@@ -36,9 +36,10 @@
 | **[ClashBox](https://github.com/xiaobaigroup/ClashBox)**| 🟢 | `鸿蒙OS` | [Releases 下载](https://github.com/xiaobaigroup/ClashBox/releases) | ![](https://img.shields.io/github/stars/xiaobaigroup/ClashBox?style=social) |
 | **[Pandora-Box](https://github.com/snakem982/Pandora-Box)**| 🟢 | `Windows` `Mac` | [Releases 下载](https://github.com/snakem982/Pandora-Box/releases)| ![](https://img.shields.io/github/stars/snakem982/Pandora-Box?style=social) |
 | **[Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android)**| 🟢 | `Android` | [Releases 下载](https://github.com/shadowsocks/shadowsocks-android/releases)| ![](https://img.shields.io/github/stars/shadowsocks/shadowsocks-android?style=social) |
-| **[Spectre VPN](https://apps.apple.com/us/app/spectre-vpn/id1508712998)**| 🟢 | `iOS` | [App Store](https://apps.apple.com/us/app/spectre-vpn/id1508712998) | - |
-| **[Surge for iOS](https://apps.apple.com/us/app/surge-5/id1442620678)**| 🟢 | `iOS` | [App Store](https://apps.apple.com/us/app/surge-5/id1442620678) | - |
-| **[Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)**| 🟢 | `iOS` | [App Store](https://apps.apple.com/us/app/shadowrocket/id932747118) | - |
+| **[Spectre VPN](https://apps.apple.com/us/app/spectre-vpn/id1508712998)**| 🟢 | `iOS` | [App Store](https://apps.apple.com/us/app/spectre-vpn/id1508712998) | Free |
+| **[ClashMi](https://apps.apple.com/us/app/clash-mi/id6744321968)**| 🟢 | `iOS` | [App Store](https://apps.apple.com/us/app/clash-mi/id6744321968) | Free |
+| **[Surge for iOS](https://apps.apple.com/us/app/surge-5/id1442620678)**| 🟢 | `iOS` | [App Store](https://apps.apple.com/us/app/surge-5/id1442620678) | $4.99 |
+| **[Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)**| 🟢 | `iOS` | [App Store](https://apps.apple.com/us/app/shadowrocket/id932747118) | $2.99 |
 | **[Clash Verge](https://github.com/clash-version/clash-verge)**| 🔴 | `Windows` `Mac` `Linux` | 已归档 (停更) | - |
 | **[Clash for Windows](https://github.com/clash-version/clash-for-windows)**| 🔴 | `Windows` `Mac` | 已归档 (停更) | - |
 | **[ClashX](https://github.com/clash-version/clashx)**| 🔴 | `Mac` | 已归档 (停更) | - |
@@ -46,6 +47,7 @@
 | **[Nekoray](https://github.com/MatsuriDayo/nekoray)**| 🔴 | `Windows` `Linux` | 已归档 (停更) | - |
 
 **🤝 欢迎参与共建**：若您发现优秀的客户端、项目地址变更或停止维护的情况，欢迎提交 Issue 告知或发起 Pull Request。
+
 
 ---
 ## ⚡ 快速安装手册
@@ -60,8 +62,6 @@
 | **iOS / iPad 苹果设备**| [**Shadowrocket**](https://apps.apple.com/us/app/shadowrocket/id932747118) | [ClashMi](https://openetkit.com/clashmi/install) | iOS 端最经典的选择（小火箭），支持协议广泛且稳定 |
 | **HarmonyOS 鸿蒙原生**| [**ClashBox**](https://openetkit.com/clashbox/install) 需自签证书 | [桌易通方案](https://clash.guide/zyt-clash) | 匹配鸿蒙原生生态，基础代理稳定 |
 | **路由器 / OpenWRT** | [**OpenClash**](https://openetkit.com/openclash/install) | ShellCrash | 适合高阶玩家实现全屋透明代理方案 |
-
-**性价比机场：** 👉 [高速流量免费试用，流媒体 / AI 全解锁，按量付费](https://coolgo.network/shop)
 
 ---
 
