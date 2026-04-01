@@ -1,3 +1,8 @@
+<!-- 
+  Clash 下载 | Mihomo 下载 | Clash for Windows 替代 | ClashX 替代 | Clash Android | Clash iOS
+  科学上网客户端 | 代理工具合集 | Sing-box | Xray | V2ray | Shadowrocket | 机场推荐 | Clash Verge | Clash Verge Rev | Clash meta | Clash for ios | Clash for macOS | FlClash | FlClashX
+-->
+
 <div align="center">
   <h1>Clash / Mihomo 客户端导航 (2026年4月更新)</h1>
   <p>
