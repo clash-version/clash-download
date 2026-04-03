@@ -65,7 +65,7 @@
 | **macOS 苹果电脑** |[**Clash Verge Rev**](https://openetkit.com/clash-verge-rev/install) | [FlClashX](https://openetkit.com/flclashx/install) | 提供成熟的桌面级系统代理接管体验 |
 | **Android 安卓手机** | [**Clash Meta for Android**](https://openetkit.com/clash-meta-for-android) |[FlClashX](https://openetkit.com/flclashx/install)  | Mihomo 官方维护核心，社区广泛认可 |
 | **iOS / iPad 苹果设备**| [**Shadowrocket**](https://apps.apple.com/us/app/shadowrocket/id932747118) | [ClashMi](https://openetkit.com/clashmi/install) | iOS 端最经典的选择（小火箭），支持协议广泛且稳定 |
-| **HarmonyOS 鸿蒙原生**| [**ClashBox**](https://openetkit.com/clashbox/install) 需自签证书 | [桌易通方案](https://clash.guide/zyt-clash) | 匹配鸿蒙原生生态，基础代理稳定 |
+| **HarmonyOS 鸿蒙原生**| [**ClashBox**](https://openetkit.com/clashbox/install) 需自签证书 | [桌易通方案](https://clash.guide/zyt-clash.html) | 匹配鸿蒙原生生态，基础代理稳定 |
 | **路由器 / OpenWRT** | [**OpenClash**](https://openetkit.com/openclash/install) | ShellCrash | 适合高阶玩家实现全屋透明代理方案 |
 
 ---
