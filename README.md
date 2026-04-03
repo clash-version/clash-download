@@ -117,3 +117,6 @@
 * 本文 / 本项目仅收集并整理 GitHub 等开源平台中公开的计算机网络测试和研究辅助工具。
 * 此列表不提供任何节点服务、不提供任何非法用途指导。
 * 请遵循您所在国家/地区的相关法律法规，在合法合规的框架下使用相关软件。任何因不正当使用引发的问题及法律责任概由使用者自行承担。
+
+<sub>  Clash 下载 | Mihomo 下载 | Clash for Windows 替代 | ClashX 替代 | Clash Android | Clash iOS
+  科学上网客户端 | 代理工具合集 | Sing-box | Xray | V2ray | Shadowrocket | 机场推荐 | Clash Verge | Clash Verge Rev | Clash meta | Clash for ios | Clash for macOS | FlClash | FlClashX</sub>
