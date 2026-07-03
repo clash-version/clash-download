@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <h1>Clash / Mihomo 客户端导航 (2026年4月更新)</h1>
+  <h1>Clash / Mihomo 客户端导航 (2026年7月更新)</h1>
   <p>
     <b>Clash全平台代理客户端下载 | Windows / macOS / Android / iOS / Linux / OpenWRT</b>
   </p>
@@ -20,39 +20,32 @@
 
 👉 [免费订阅试用，AI、流媒体 全解锁，可按流量购买](https://coolgo.cloud)
 
-👉 [客户端使用教程](https://openetkit.com/download)
+## 📊 客户端总览
 
-## 📊 客户端状态总览
+> 🟢 维护中 · 🔴 已停更（新用户请选 🟢）
 
-| 客户端 (Client) | 维护状态 | 适用平台 (OS) | 传送门 (Link) | 推荐度 (Stars) |
+| 客户端 | 状态 | 适配平台 | 下载/教程 | 仓库 |
 | :--- | :---: | :--- | :--- | :--- |
-| **[FlClashX](https://github.com/pluralplay/FlClashX)** | 🟢 | `Windows` `Mac` `Android` `Linux` | [Releases 下载](https://github.com/pluralplay/FlClashX/releases) | ![](https://img.shields.io/github/stars/pluralplay/FlClashX?style=social) |
-| **[FlClash](https://github.com/chen08209/FlClash)** | 🟢 | `Windows` `Mac` `Android` `Linux` | [Releases 下载](https://github.com/chen08209/FlClash/releases) | ![](https://img.shields.io/github/stars/chen08209/FlClash?style=social) |
-| **[Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev)**| 🟢 | `Windows` `Mac` `Linux` | [Releases 下载](https://github.com/clash-verge-rev/clash-verge-rev/releases)| ![](https://img.shields.io/github/stars/clash-verge-rev/clash-verge-rev?style=social) |
-| **[ClashMi](https://github.com/KaringX/clashmi)** | 🟢 | `Windows` `Mac` `Android` `iOS` `Linux` | [Releases 下载](https://github.com/KaringX/clashmi/releases) | ![](https://img.shields.io/github/stars/KaringX/clashmi?style=social) |
-| **[GUI for Clash](https://github.com/GUI-for-Cores/GUI.for.Clash)**| 🟢 | `Windows` `Mac` `Linux` | [Releases 下载](https://github.com/GUI-for-Cores/GUI.for.Clash/releases)| ![](https://img.shields.io/github/stars/GUI-for-Cores/GUI.for.Clash?style=social) |
-| **[V2rayN](https://github.com/2dust/v2rayN)** | 🟢 | `Windows` `Mac` | [Releases 下载](https://github.com/2dust/v2rayN/releases) | ![](https://img.shields.io/github/stars/2dust/v2rayN?style=social) |
-| **[Hiddify Next](https://github.com/hiddify/hiddify-app)**| 🟢 | `Windows` `Mac` `Android` `iOS` `Linux` | [Releases 下载](https://github.com/hiddify/hiddify-app/releases) | ![](https://img.shields.io/github/stars/hiddify/hiddify-app?style=social) |
-| **[Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid)**| 🟢 | `Android` | [Releases 下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)| ![](https://img.shields.io/github/stars/MetaCubeX/ClashMetaForAndroid?style=social) |
-| **[Karing](https://github.com/KaringX/karing)** | 🟢 | `Windows` `Mac` `Android` `iOS` `Linux` | [Releases 下载](https://github.com/KaringX/karing/releases) | ![](https://img.shields.io/github/stars/KaringX/karing?style=social) |
-| **[Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu)**| 🟢 | `Windows` `Mac` | [Releases 下载](https://github.com/libnyanpasu/clash-nyanpasu/releases)| ![](https://img.shields.io/github/stars/libnyanpasu/clash-nyanpasu?style=social) |
-| **[Mihomo-Party](https://github.com/mihomo-party-org/mihomo-party)**| 🟢 | `Windows` `Mac` `Linux` | [Releases 下载](https://github.com/mihomo-party-org/mihomo-party/releases)| ![](https://img.shields.io/github/stars/mihomo-party-org/mihomo-party?style=social) |
-| **[NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)**| 🟢 | `Android` | [Releases 下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)| ![](https://img.shields.io/github/stars/MatsuriDayo/NekoBoxForAndroid?style=social) |
-| **[ClashBox](https://github.com/xiaobaigroup/ClashBox)**| 🟢 | `鸿蒙OS` | [Releases 下载](https://github.com/xiaobaigroup/ClashBox/releases) | ![](https://img.shields.io/github/stars/xiaobaigroup/ClashBox?style=social) |
-| **[Pandora-Box](https://github.com/snakem982/Pandora-Box)**| 🟢 | `Windows` `Mac` | [Releases 下载](https://github.com/snakem982/Pandora-Box/releases)| ![](https://img.shields.io/github/stars/snakem982/Pandora-Box?style=social) |
-| **[Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android)**| 🟢 | `Android` | [Releases 下载](https://github.com/shadowsocks/shadowsocks-android/releases)| ![](https://img.shields.io/github/stars/shadowsocks/shadowsocks-android?style=social) |
-| **[Spectre VPN](https://apps.apple.com/us/app/spectre-vpn/id1508712998)**| 🟢 | `iOS` | [App Store](https://apps.apple.com/us/app/spectre-vpn/id1508712998) | Free |
-| **[ClashMi](https://apps.apple.com/us/app/clash-mi/id6744321968)**| 🟢 | `iOS` | [App Store](https://apps.apple.com/us/app/clash-mi/id6744321968) | Free |
-| **[Surge for iOS](https://apps.apple.com/us/app/surge-5/id1442620678)**| 🟢 | `iOS` | [App Store](https://apps.apple.com/us/app/surge-5/id1442620678) | $4.99 |
-| **[Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)**| 🟢 | `iOS` | [App Store](https://apps.apple.com/us/app/shadowrocket/id932747118) | $2.99 |
-| **[Clash Verge](https://github.com/clash-version/clash-verge)**| 🔴 | `Windows` `Mac` `Linux` | 已归档 (停更) | - |
-| **[Clash for Windows](https://github.com/clash-version/clash-for-windows)**| 🔴 | `Windows` `Mac` | 已归档 (停更) | - |
-| **[ClashX](https://github.com/clash-version/clashx)**| 🔴 | `Mac` | 已归档 (停更) | - |
-| **[Clash for Android](https://github.com/clash-version/clash-for-android)**| 🔴 | `Android` | 已归档 (停更) | - |
-| **[Nekoray](https://github.com/MatsuriDayo/nekoray)**| 🔴 | `Windows` `Linux` | 已归档 (停更) | - |
+| **[FlClashX](https://github.com/pluralplay/FlClashX)** | 🟢 | Win / Mac / Android / Linux | [前往](https://flclashx.com)|  [前往](https://github.com/pluralplay/FlClashX/releases) |
+| **[FlClash](https://github.com/chen08209/FlClash)** | 🟢 | Win / Mac / Android / Linux | [前往](https://clash.guide/flclash.html) |[前往](https://github.com/chen08209/FlClash/releases) |
+| **[Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev)** | 🟢 | Win / Mac / Linux | [前往](https://clash.guide/clash-verge.html) | [前往](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
+| **[Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid)** | 🟢 | Android | [前往](https://clash.guide/clash-meta-for-android.html) | [前往](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) |
+| **[Hiddify Next](https://github.com/hiddify/hiddify-app)** | 🟢 | Win / Mac / Android / iOS / Linux | [前往](https://clash.guide/hiddify.html) | [前往](https://github.com/hiddify/hiddify-app/releases) |
+| **[ClashMi](https://github.com/KaringX/clashmi)** | 🟢 | Win / Mac / Android / iOS / Linux | [前往](https://clash.guide/clashmi.html) |[前往](https://github.com/KaringX/clashmi/releases) |
+| **[V2rayN](https://github.com/2dust/v2rayN)** | 🟢 | Win / Mac | [前往](https://github.com/2dust/v2rayN/releases) | [前往](https://github.com/2dust/v2rayN/releases) |
+| **[ClashBox](https://github.com/xiaobaigroup/ClashBox)** | 🟢 | 鸿蒙 | [前往](https://clash.guide/clashbox.html) | [前往](https://github.com/xiaobaigroup/ClashBox/releases) |
+| **[Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)** | 🟢 | iOS | [App Store $2.99](https://apps.apple.com/us/app/shadowrocket/id932747118) | — |
+| **[Surge 5](https://apps.apple.com/us/app/surge-5/id1442620678)** | 🟢 | iOS | [App Store $4.99](https://apps.apple.com/us/app/surge-5/id1442620678) | — |
+| **[Spectre VPN](https://apps.apple.com/us/app/spectre-vpn/id1508712998)** | 🟢 | iOS | [App Store 免费](https://apps.apple.com/us/app/spectre-vpn/id1508712998) | — |
+| **[ClashMi iOS](https://apps.apple.com/us/app/clash-mi/id6744321968)** | 🟢 | iOS | [App Store 免费](https://apps.apple.com/us/app/clash-mi/id6744321968) | — |
+| **Clash for Windows (CFW)** |🔴| Win | 可迁移→[Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
+| **Clash Verge**|🔴 |Win / Mac  | 可迁移→[Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
+| **ClashX** |🔴|  Mac | 可迁移→[FlClashX](https://github.com/pluralplay/FlClashX/releases) |
+| **Clash for Android**|🔴| Android | 可迁移→[Clash Meta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) |
 
-**🤝 欢迎参与共建**：若您发现优秀的客户端、项目地址变更或停止维护的情况，欢迎提交 Issue 告知或发起 Pull Request。
 
+
+欢迎提 [Issue](../../issues) 或 [PR](../../pulls) 补充。
 
 ---
 ## ⚡ 快速安装手册
