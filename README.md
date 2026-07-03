@@ -9,7 +9,7 @@
     <b>Clash全平台代理客户端下载 | Windows / macOS / Android / iOS / Linux / OpenWRT</b>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Update-2026.04-brightgreen.svg" alt="Update">
+    <img src="https://img.shields.io/badge/Update-2026.07-brightgreen.svg" alt="Update">
     <img src="https://img.shields.io/badge/Platform-Win%20%7C%20Mac%20%7C%20iOS%20%7C%20Android%20%7C%20Linux-blue.svg" alt="Platform">
     <img src="https://img.shields.io/badge/Ecosystem-Clash%20%7C%20Mihomo%20%7C%20Sing--box%20%7C%20Xray-orange.svg" alt="Ecosystem">
   </p>
@@ -18,13 +18,13 @@
 &emsp;&emsp;本仓库旨在为用户提供一份中立、客观的 Clash / Mihomo 生态客户端下载导航，掌握Clash / Mohomo社区动态，防非官方魔改版本可能带来的后门与安全风险。
 如果您觉得本项目有所帮助，欢迎点击右上角的 **⭐ Star** 给予支持！🔗 Fork 到本地以防失联。
 
-👉 [免费订阅试用，AI、流媒体 全解锁，可按流量购买](https://coolgo.cloud)
+👉 [免费订阅试用，AI、流媒体 全解锁，可按流量购买](https://iv.coolgo.me/aff.php?aff=4)
 
 ## 📊 客户端总览
 
 > 🟢 维护中 · 🔴 已停更（新用户请选 🟢）
 
-| 客户端 | 状态 | 适配平台 | 下载/教程 | 仓库 |
+| 客户端 | 维护状态 | 适配平台 | 下载/教程 | 仓库 |
 | :--- | :---: | :--- | :--- | :--- |
 | **[FlClashX](https://github.com/pluralplay/FlClashX)** | 🟢 | Win / Mac / Android / Linux | [前往](https://flclashx.com)|  [前往](https://github.com/pluralplay/FlClashX/releases) |
 | **[FlClash](https://github.com/chen08209/FlClash)** | 🟢 | Win / Mac / Android / Linux | [前往](https://clash.guide/flclash.html) |[前往](https://github.com/chen08209/FlClash/releases) |
@@ -32,7 +32,7 @@
 | **[Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid)** | 🟢 | Android | [前往](https://clash.guide/clash-meta-for-android.html) | [前往](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) |
 | **[Hiddify Next](https://github.com/hiddify/hiddify-app)** | 🟢 | Win / Mac / Android / iOS / Linux | [前往](https://clash.guide/hiddify.html) | [前往](https://github.com/hiddify/hiddify-app/releases) |
 | **[ClashMi](https://github.com/KaringX/clashmi)** | 🟢 | Win / Mac / Android / iOS / Linux | [前往](https://clash.guide/clashmi.html) |[前往](https://github.com/KaringX/clashmi/releases) |
-| **[V2rayN](https://github.com/2dust/v2rayN)** | 🟢 | Win / Mac | [前往](https://github.com/2dust/v2rayN/releases) | [前往](https://github.com/2dust/v2rayN/releases) |
+| **[V2rayN](https://github.com/2dust/v2rayN)** | 🟢 | Win / Mac / Linux | [前往](https://github.com/2dust/v2rayN/releases) | [前往](https://github.com/2dust/v2rayN/releases) |
 | **[ClashBox](https://github.com/xiaobaigroup/ClashBox)** | 🟢 | 鸿蒙 | [前往](https://clash.guide/clashbox.html) | [前往](https://github.com/xiaobaigroup/ClashBox/releases) |
 | **[Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)** | 🟢 | iOS | [App Store $2.99](https://apps.apple.com/us/app/shadowrocket/id932747118) | — |
 | **[Surge 5](https://apps.apple.com/us/app/surge-5/id1442620678)** | 🟢 | iOS | [App Store $4.99](https://apps.apple.com/us/app/surge-5/id1442620678) | — |
