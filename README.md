@@ -18,7 +18,7 @@
 &emsp;&emsp;本仓库旨在为用户提供一份中立、客观的 Clash / Mihomo 生态客户端下载导航，掌握Clash / Mohomo社区动态，防非官方魔改版本可能带来的后门与安全风险。
 如果您觉得本项目有所帮助，欢迎点击右上角的 **⭐ Star** 给予支持！🔗 Fork 到本地以防失联。
 
-👉 [免费订阅试用，AI、流媒体 全解锁，可按流量购买](https://iv.coolgo.me/aff.php?aff=4)
+👉 [顶级直连路线，无视晚高峰，前往试用](https://iv.coolgo.me/aff.php?aff=4)
 
 ## 📊 客户端总览
 
